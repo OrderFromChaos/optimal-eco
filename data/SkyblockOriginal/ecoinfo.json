@@ -1,0 +1,682 @@
+{
+    "Coal": {
+        "Buy Price": 15.0,
+        "Sell Price": 1.2,
+        "Automation State": 1.0
+    },
+    "Redstone Dust": {
+        "Buy Price": 40.0,
+        "Sell Price": 2.8,
+        "Automation State": 1.0
+    },
+    "Lapis": {
+        "Buy Price": 80.0,
+        "Sell Price": 4.2,
+        "Automation State": 1.0
+    },
+    "Gold": {
+        "Buy Price": 250.0,
+        "Sell Price": 50.0,
+        "Automation State": 1.0
+    },
+    "Iron": {
+        "Buy Price": 650.0,
+        "Sell Price": 75.0,
+        "Automation State": 1.0
+    },
+    "Diamond": {
+        "Buy Price": 2800.0,
+        "Sell Price": 800.0,
+        "Automation State": 1.0
+    },
+    "Emerald": {
+        "Buy Price": 4200.0,
+        "Sell Price": 1250.0,
+        "Automation State": 1.0
+    },
+    "Gravel": {
+        "Buy Price": 200.0,
+        "Sell Price": 2.0,
+        "Automation State": 3.0
+    },
+    "Stone": {
+        "Buy Price": 8.0,
+        "Sell Price": 0.1,
+        "Automation State": 1.0
+    },
+    "Cobblestone": {
+        "Buy Price": 5.0,
+        "Sell Price": 0.05,
+        "Automation State": 1.0
+    },
+    "Grass Block": {
+        "Buy Price": 1000.0,
+        "Sell Price": null,
+        "Automation State": 2.0
+    },
+    "Dirt": {
+        "Buy Price": 800.0,
+        "Sell Price": null,
+        "Automation State": 3.0
+    },
+    "Sand": {
+        "Buy Price": 1500.0,
+        "Sell Price": null,
+        "Automation State": 3.0
+    },
+    "Oak Log": {
+        "Buy Price": 9.5,
+        "Sell Price": 0.15,
+        "Automation State": 1.0
+    },
+    "Birch Log": {
+        "Buy Price": 12.5,
+        "Sell Price": 0.2,
+        "Automation State": 0.0
+    },
+    "Jungle Log": {
+        "Buy Price": 12.5,
+        "Sell Price": 0.2,
+        "Automation State": 1.0
+    },
+    "Spruce Log": {
+        "Buy Price": 12.5,
+        "Sell Price": 0.2,
+        "Automation State": 1.0
+    },
+    "Ice": {
+        "Buy Price": 150.0,
+        "Sell Price": 0.1,
+        "Automation State": 1.0
+    },
+    "Packed Ice": {
+        "Buy Price": 200.0,
+        "Sell Price": 0.15,
+        "Automation State": 1.0
+    },
+    "Snow Block": {
+        "Buy Price": 100.0,
+        "Sell Price": 0.07,
+        "Automation State": 1.0
+    },
+    "Clay": {
+        "Buy Price": 150.0,
+        "Sell Price": 0.4,
+        "Automation State": 3.0
+    },
+    "Bookshelf": {
+        "Buy Price": 120.0,
+        "Sell Price": 0.8,
+        "Automation State": 1.0
+    },
+    "White Wool": {
+        "Buy Price": 70.0,
+        "Sell Price": 0.4,
+        "Automation State": 1.0
+    },
+    "Glass": {
+        "Buy Price": 400.0,
+        "Sell Price": 4.0,
+        "Automation State": 3.0
+    },
+    "Mossy Cobblestone": {
+        "Buy Price": 400.0,
+        "Sell Price": 2.5,
+        "Automation State": 3.0
+    },
+    "Obsidian": {
+        "Buy Price": 300.0,
+        "Sell Price": 1.25,
+        "Automation State": 2.0
+    },
+    "Sandstone": {
+        "Buy Price": 400.0,
+        "Sell Price": 2.0,
+        "Automation State": 3.0
+    },
+    "Bricks": {
+        "Buy Price": 250.0,
+        "Sell Price": 2.5,
+        "Automation State": 3.0
+    },
+    "Block of Quartz": {
+        "Buy Price": 500.0,
+        "Sell Price": 5.0,
+        "Automation State": 3.0
+    },
+    "Chiseled Quartz": {
+        "Buy Price": 550.0,
+        "Sell Price": 5.0,
+        "Automation State": 3.0
+    },
+    "Quartz Pillar": {
+        "Buy Price": 750.0,
+        "Sell Price": 7.5,
+        "Automation State": 3.0
+    },
+    "End Stone": {
+        "Buy Price": 750.0,
+        "Sell Price": 6.0,
+        "Automation State": 3.0
+    },
+    "Nether Brick": {
+        "Buy Price": 300.0,
+        "Sell Price": 1.8,
+        "Automation State": 3.0
+    },
+    "Mycelium": {
+        "Buy Price": 2000.0,
+        "Sell Price": null,
+        "Automation State": 2.0
+    },
+    "Stone Bricks": {
+        "Buy Price": 45.0,
+        "Sell Price": 0.2,
+        "Automation State": 3.0
+    },
+    "Jack o'Lantern": {
+        "Buy Price": 155.0,
+        "Sell Price": 0.9,
+        "Automation State": 0.0
+    },
+    "Glowstone": {
+        "Buy Price": 250.0,
+        "Sell Price": 0.85,
+        "Automation State": 3.0
+    },
+    "Soul Sand": {
+        "Buy Price": 275.0,
+        "Sell Price": 0.55,
+        "Automation State": 3.0
+    },
+    "Netherrack": {
+        "Buy Price": 10.0,
+        "Sell Price": 0.06,
+        "Automation State": 3.0
+    },
+    "Purpur Block": {
+        "Buy Price": 200.0,
+        "Sell Price": 0.2,
+        "Automation State": 3.0
+    },
+    "Purpur Pillar": {
+        "Buy Price": 250.0,
+        "Sell Price": 0.2,
+        "Automation State": 3.0
+    },
+    "Carrot": {
+        "Buy Price": 92.0,
+        "Sell Price": 0.42,
+        "Automation State": 0.0
+    },
+    "Cactus": {
+        "Buy Price": 78.0,
+        "Sell Price": 0.17,
+        "Automation State": 0.0
+    },
+    "Potato": {
+        "Buy Price": 92.0,
+        "Sell Price": 0.42,
+        "Automation State": 0.0
+    },
+    "Wheat": {
+        "Buy Price": 59.4,
+        "Sell Price": 0.21,
+        "Automation State": 0.0
+    },
+    "Sugar Cane": {
+        "Buy Price": 78.0,
+        "Sell Price": 0.12,
+        "Automation State": 0.0
+    },
+    "Melon": {
+        "Buy Price": 115.0,
+        "Sell Price": 0.58,
+        "Automation State": 0.0
+    },
+    "Carved Pumpkin": {
+        "Buy Price": 115.0,
+        "Sell Price": 0.58,
+        "Automation State": 0.0
+    },
+    "Oak Sapling": {
+        "Buy Price": 100.0,
+        "Sell Price": 0.12,
+        "Automation State": 1.0
+    },
+    "Birch Sapling": {
+        "Buy Price": 250.0,
+        "Sell Price": 0.14,
+        "Automation State": 0.0
+    },
+    "Spruce Sapling": {
+        "Buy Price": 275.0,
+        "Sell Price": 0.14,
+        "Automation State": 1.0
+    },
+    "Jungle Sapling": {
+        "Buy Price": 400.0,
+        "Sell Price": 0.16,
+        "Automation State": 1.0
+    },
+    "Acacia Sapling": {
+        "Buy Price": 450.0,
+        "Sell Price": 0.16,
+        "Automation State": 1.0
+    },
+    "Dark Oak Sapling": {
+        "Buy Price": 500.0,
+        "Sell Price": 0.16,
+        "Automation State": 1.0
+    },
+    "Cocoa Beans": {
+        "Buy Price": 125.0,
+        "Sell Price": 0.36,
+        "Automation State": 4.0
+    },
+    "Nether Wart": {
+        "Buy Price": 150.0,
+        "Sell Price": 0.28,
+        "Automation State": 4.0
+    },
+    "Wheat Seeds": {
+        "Buy Price": 100.0,
+        "Sell Price": 0.02,
+        "Automation State": 0.0
+    },
+    "Pumpkin Seeds": {
+        "Buy Price": 100.0,
+        "Sell Price": 0.05,
+        "Automation State": 0.0
+    },
+    "Melon Seeds": {
+        "Buy Price": 100.0,
+        "Sell Price": 0.05,
+        "Automation State": 0.0
+    },
+    "Beetroot Seeds": {
+        "Buy Price": 300.0,
+        "Sell Price": 0.1,
+        "Automation State": 0.0
+    },
+    "Red Mushroom": {
+        "Buy Price": 225.0,
+        "Sell Price": 0.01,
+        "Automation State": 4.0
+    },
+    "Brown Mushroom": {
+        "Buy Price": 225.0,
+        "Sell Price": 0.01,
+        "Automation State": 4.0
+    },
+    "Chorus Flower": {
+        "Buy Price": 415.0,
+        "Sell Price": 0.21,
+        "Automation State": 4.0
+    },
+    "Chorus Fruit": {
+        "Buy Price": 200.0,
+        "Sell Price": 0.11,
+        "Automation State": 4.0
+    },
+    "Minecart": {
+        "Buy Price": 1250.0,
+        "Sell Price": 250.0,
+        "Automation State": 1.0
+    },
+    "Minecart with Chest": {
+        "Buy Price": 1300.0,
+        "Sell Price": 275.0,
+        "Automation State": 1.0
+    },
+    "Minecart with Furnace": {
+        "Buy Price": 1350.0,
+        "Sell Price": 300.0,
+        "Automation State": 1.0
+    },
+    "Minecart with TNT": {
+        "Buy Price": 1500.0,
+        "Sell Price": 400.0,
+        "Automation State": 1.0
+    },
+    "Piston": {
+        "Buy Price": 400.0,
+        "Sell Price": 50.0,
+        "Automation State": 1.0
+    },
+    "Sticky Piston": {
+        "Buy Price": 500.0,
+        "Sell Price": 60.0,
+        "Automation State": 1.0
+    },
+    "TNT": {
+        "Buy Price": null,
+        "Sell Price": 2.5,
+        "Automation State": 3.0
+    },
+    "Rail": {
+        "Buy Price": 1500.0,
+        "Sell Price": 300.0,
+        "Automation State": 1.0
+    },
+    "Powered Rail": {
+        "Buy Price": 3000.0,
+        "Sell Price": 450.0,
+        "Automation State": 1.0
+    },
+    "Detector Rail": {
+        "Buy Price": 1500.0,
+        "Sell Price": 300.0,
+        "Automation State": 1.0
+    },
+    "Activator Rail": {
+        "Buy Price": 1500.0,
+        "Sell Price": 300.0,
+        "Automation State": 1.0
+    },
+    "Redstone Repeater": {
+        "Buy Price": 80.0,
+        "Sell Price": 5.6,
+        "Automation State": 1.0
+    },
+    "Redstone Comparator": {
+        "Buy Price": 40.0,
+        "Sell Price": 8.4,
+        "Automation State": 3.0
+    },
+    "Hopper": {
+        "Buy Price": 3500.0,
+        "Sell Price": 250.0,
+        "Automation State": 1.0
+    },
+    "Dropper": {
+        "Buy Price": 100.0,
+        "Sell Price": 3.0,
+        "Automation State": 1.0
+    },
+    "Dispenser": {
+        "Buy Price": 100.0,
+        "Sell Price": 3.0,
+        "Automation State": 1.0
+    },
+    "Light Weighted Pressure Plate": {
+        "Buy Price": 1300.0,
+        "Sell Price": 150.0,
+        "Automation State": 1.0
+    },
+    "Heavy Weighted Pressure Plate": {
+        "Buy Price": 500.0,
+        "Sell Price": 100.0,
+        "Automation State": 1.0
+    },
+    "Daylight Detector": {
+        "Buy Price": 300.0,
+        "Sell Price": 5.0,
+        "Automation State": 1.0
+    },
+    "Redstone Lamp": {
+        "Buy Price": 160.0,
+        "Sell Price": 9.2,
+        "Automation State": 1.0
+    },
+    "Jukebox": {
+        "Buy Price": 2800.0,
+        "Sell Price": 800.0,
+        "Automation State": 1.0
+    },
+    "Golden Apple": {
+        "Buy Price": 600.0,
+        "Sell Price": 200.0,
+        "Automation State": 1.0
+    },
+    "Steak": {
+        "Buy Price": 14.5,
+        "Sell Price": 0.32,
+        "Automation State": 1.0
+    },
+    "Cooked Porkchop": {
+        "Buy Price": 13.5,
+        "Sell Price": 0.34,
+        "Automation State": 1.0
+    },
+    "Golden Carrot": {
+        "Buy Price": 250.0,
+        "Sell Price": 20.0,
+        "Automation State": 1.0
+    },
+    "Apple": {
+        "Buy Price": 10.4,
+        "Sell Price": 0.7,
+        "Automation State": 0.0
+    },
+    "Bread": {
+        "Buy Price": 10.8,
+        "Sell Price": 0.75,
+        "Automation State": 0.0
+    },
+    "Cooked Cod": {
+        "Buy Price": 12.5,
+        "Sell Price": 0.85,
+        "Automation State": 1.0
+    },
+    "Cake": {
+        "Buy Price": 100.0,
+        "Sell Price": 10.0,
+        "Automation State": 1.0
+    },
+    "Cookie": {
+        "Buy Price": 40.0,
+        "Sell Price": 0.8,
+        "Automation State": 4.0
+    },
+    "Pumpkin Pie": {
+        "Buy Price": 19.4,
+        "Sell Price": 1.75,
+        "Automation State": 0.0
+    },
+    "Cooked Rabbit": {
+        "Buy Price": 15.0,
+        "Sell Price": 0.35,
+        "Automation State": 1.0
+    },
+    "Cooked Chicken": {
+        "Buy Price": 12.0,
+        "Sell Price": 0.2,
+        "Automation State": 1.0
+    },
+    "Cooked Mutton": {
+        "Buy Price": 16.5,
+        "Sell Price": 0.5,
+        "Automation State": 1.0
+    },
+    "Baked Potato": {
+        "Buy Price": 35.0,
+        "Sell Price": 0.65,
+        "Automation State": 0.0
+    },
+    "Pufferfish": {
+        "Buy Price": 54.5,
+        "Sell Price": 1.35,
+        "Automation State": 1.0
+    },
+    "Tropical Fish": {
+        "Buy Price": 28.5,
+        "Sell Price": 1.65,
+        "Automation State": 1.0
+    },
+    "Cooked Salmon": {
+        "Buy Price": 18.5,
+        "Sell Price": 0.95,
+        "Automation State": 1.0
+    },
+    "Rabbit Stew": {
+        "Buy Price": 40.2,
+        "Sell Price": 2.8,
+        "Automation State": 1.0
+    },
+    "Mushroom Stew": {
+        "Buy Price": 25.5,
+        "Sell Price": 0.9,
+        "Automation State": 4.0
+    },
+    "Glistering Melon Slice": {
+        "Buy Price": 100.0,
+        "Sell Price": 0.35,
+        "Automation State": 1.0
+    },
+    "Popped Chorus Fruit": {
+        "Buy Price": 300.0,
+        "Sell Price": 0.18,
+        "Automation State": 4.0
+    },
+    "String": {
+        "Buy Price": 12.5,
+        "Sell Price": 0.2,
+        "Automation State": 0.0
+    },
+    "Bone": {
+        "Buy Price": 4.7,
+        "Sell Price": 0.25,
+        "Automation State": 0.0
+    },
+    "Rotten Flesh": {
+        "Buy Price": 3.6,
+        "Sell Price": 0.2,
+        "Automation State": 0.0
+    },
+    "Ender Pearl": {
+        "Buy Price": 70.0,
+        "Sell Price": 1.75,
+        "Automation State": 4.0
+    },
+    "Slimeball": {
+        "Buy Price": 50.0,
+        "Sell Price": 0.6,
+        "Automation State": 0.0
+    },
+    "Blaze Rod": {
+        "Buy Price": 200.0,
+        "Sell Price": 0.65,
+        "Automation State": 4.0
+    },
+    "Feather": {
+        "Buy Price": 15.0,
+        "Sell Price": 0.05,
+        "Automation State": 1.0
+    },
+    "Gunpowder": {
+        "Buy Price": 80.0,
+        "Sell Price": 0.9,
+        "Automation State": 0.0
+    },
+    "Snowball": {
+        "Buy Price": 20.0,
+        "Sell Price": 0.03,
+        "Automation State": 1.0
+    },
+    "Egg": {
+        "Buy Price": 100.0,
+        "Sell Price": 0.05,
+        "Automation State": 1.0
+    },
+    "Leather": {
+        "Buy Price": 75.0,
+        "Sell Price": 0.15,
+        "Automation State": 1.0
+    },
+    "Ink Sac": {
+        "Buy Price": 50.0,
+        "Sell Price": 0.3,
+        "Automation State": 4.0
+    },
+    "Spider Eye": {
+        "Buy Price": 15.0,
+        "Sell Price": 0.2,
+        "Automation State": 0.0
+    },
+    "Arrow": {
+        "Buy Price": 3.1,
+        "Sell Price": 0.27,
+        "Automation State": 0.0
+    },
+    "Bow": {
+        "Buy Price": 50.0,
+        "Sell Price": 10.0,
+        "Automation State": 0.0
+    },
+    "Ghast Tear": {
+        "Buy Price": 100.0,
+        "Sell Price": 3.5,
+        "Automation State": 4.0
+    },
+    "Magma Cream": {
+        "Buy Price": 50.0,
+        "Sell Price": 1.5,
+        "Automation State": 4.0
+    },
+    "Fermented Spider Eye": {
+        "Buy Price": 25.0,
+        "Sell Price": 0.85,
+        "Automation State": 4.0
+    },
+    "Glowstone Dust": {
+        "Buy Price": 20.0,
+        "Sell Price": 0.3,
+        "Automation State": 3.0
+    },
+    "Blaze Powder": {
+        "Buy Price": 50.0,
+        "Sell Price": 0.5,
+        "Automation State": 4.0
+    },
+    "Cauldron": {
+        "Buy Price": 1750.0,
+        "Sell Price": 300.0,
+        "Automation State": 1.0
+    },
+    "Brewing Stand": {
+        "Buy Price": 200.0,
+        "Sell Price": 0.6,
+        "Automation State": 4.0
+    },
+    "Flint and Steel": {
+        "Buy Price": 200.0,
+        "Sell Price": 50.0,
+        "Automation State": 3.0
+    },
+    "Water Bucket": {
+        "Buy Price": 750.0,
+        "Sell Price": null,
+        "Automation State": null
+    },
+    "Lava Bucket": {
+        "Buy Price": 5000.0,
+        "Sell Price": null,
+        "Automation State": null
+    },
+    "Flint": {
+        "Buy Price": 50.0,
+        "Sell Price": 0.85,
+        "Automation State": 3.0
+    },
+    "End Rod": {
+        "Buy Price": 400.0,
+        "Sell Price": null,
+        "Automation State": null
+    },
+    "Nether Star": {
+        "Buy Price": 70000.0,
+        "Sell Price": null,
+        "Automation State": null
+    },
+    "Beacon": {
+        "Buy Price": 50000.0,
+        "Sell Price": null,
+        "Automation State": null
+    },
+    "Spawner": {
+        "Buy Price": 100000.0,
+        "Sell Price": null,
+        "Automation State": null
+    }
+}

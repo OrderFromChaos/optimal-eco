@@ -1,0 +1,935 @@
+{
+    "Apple (Golden)": {
+        "Gold Ingot": 8,
+        "Apple (Red)": 1
+    },
+    "Andesite": {
+        "Diorite": 1,
+        "Cobblestone": 1
+    },
+    "Andesite (Polished)": {
+        "Andesite": 4
+    },
+    "Anvil": {
+        "Iron Block": 3,
+        "Iron Ingot": 4
+    },
+    "Armor Stand": {
+        "Stick": 6,
+        "Stone Slab": 1
+    },
+    "Arrow": {
+        "Flint": 1,
+        "Stick": 1,
+        "Feather": 1
+    },
+    "Arrow (Spectral)": {
+        "Glowstone Dust": 4,
+        "Arrow": 1
+    },
+    "Arrow (Tipped)": {
+        "Arrow": 8,
+        "Potion (Lingering)": 1
+    },
+    "Banner": {
+        "Wool (White)": 6,
+        "Stick": 1
+    },
+    "Beacon": {
+        "Glass": 5,
+        "Nether Star": 1,
+        "Obsidian": 3
+    },
+    "Bed": {
+        "Wool (White)": 3,
+        "Wooden Plank": 3
+    },
+    "Beef (Steak)": {
+        "Beef (Raw)": 1,
+        "Coal": 1
+    },
+    "Beetroot Soup": {
+        "Beetroot": 6,
+        "Bowl": 1
+    },
+    "Blaze Powder": {
+        "Blaze Rod": 1
+    },
+    "Boat": {
+        "Wooden Plank": 5
+    },
+    "Book": {
+        "Paper": 3,
+        "Leather": 1
+    },
+    "Book and Quill": {
+        "Ink Sac": 1,
+        "Book": 1,
+        "Feather": 1
+    },
+    "Bookshelf": {
+        "Wooden Plank": 6,
+        "Book": 3
+    },
+    "Bone Block": {
+        "Bone Meal": 9
+    },
+    "Bone Meal": {
+        "Bone": 1
+    },
+    "Bow": {
+        "String": 3,
+        "Stick": 3
+    },
+    "Bowl": {
+        "Wooden Plank": 3
+    },
+    "Bread": {
+        "Wheat": 3
+    },
+    "Brewing Stand": {
+        "Blaze Rod": 1,
+        "Cobblestone": 3
+    },
+    "Brick Block": {
+        "Clay Brick": 4
+    },
+    "Brick Stairs": {
+        "Brick Block": 6
+    },
+    "Bucket": {
+        "Iron Ingot": 3
+    },
+    "Cake": {
+        "Milk": 3,
+        "Sugar": 2,
+        "Egg": 1,
+        "Wheat": 3
+    },
+    "Carrot (Golden)": {
+        "Gold Nugget": 8,
+        "Carrot": 1
+    },
+    "Carrot on a Stick": {
+        "Fishing Rod": 1,
+        "Carrot": 1
+    },
+    "Cauldron": {
+        "Iron Ingot": 7
+    },
+    "Chainmail Boots": {
+        "Fire": 4
+    },
+    "Chainmail Chestplate": {
+        "Fire": 8
+    },
+    "Chainmail Helmet": {
+        "Fire": 5
+    },
+    "Chainmail Leggings": {
+        "Fire": 7
+    },
+    "Chest": {
+        "Wooden Plank": 8
+    },
+    "Chest (Trapped)": {
+        "Tripwire Hook": 1,
+        "Chest": 1
+    },
+    "Clay Block": {
+        "Clay Balls": 4
+    },
+    "Clay Brick": {
+        "Clay Balls": 1,
+        "Coal": 1
+    },
+    "Clock": {
+        "Gold Ingot": 4,
+        "Redstone Dust": 1
+    },
+    "Charcoal": {
+        "Wood": 1,
+        "Coal": 1
+    },
+    "Chicken (Cooked)": {
+        "Chicken (Raw)": 1,
+        "Coal": 1
+    },
+    "Coal Block": {
+        "Coal": 9
+    },
+    "Cobblestone Stairs": {
+        "Cobblestone": 6
+    },
+    "Cobblestone Wall": {
+        "Cobblestone": 6
+    },
+    "Cobblestone Wall (Mossy)": {
+        "Moss Stone": 6
+    },
+    "Compass": {
+        "Iron Ingot": 4,
+        "Redstone Dust": 1
+    },
+    "Concrete Powder": {
+        "Bone Meal": 1,
+        "Sand": 4,
+        "Gravel": 4
+    },
+    "Cookie": {
+        "Wheat": 2,
+        "Cocoa Beans": 1
+    },
+    "Crafting Table": {
+        "Wooden Plank": 4
+    },
+    "Daylight Sensor": {
+        "Glass": 3,
+        "Nether Quartz": 3,
+        "Wooden Slab": 3
+    },
+    "Diamond Axe": {
+        "Diamond": 3,
+        "Stick": 2
+    },
+    "Diamond Block": {
+        "Diamond": 9
+    },
+    "Diamond Boots": {
+        "Diamond": 4
+    },
+    "Diamond Chestplate": {
+        "Diamond": 8
+    },
+    "Diamond Helmet": {
+        "Diamond": 5
+    },
+    "Diamond Hoe": {
+        "Diamond": 2,
+        "Stick": 2
+    },
+    "Diamond Leggings": {
+        "Diamond": 7
+    },
+    "Diamond Pickaxe": {
+        "Diamond": 3,
+        "Stick": 2
+    },
+    "Diamond Shovel": {
+        "Diamond": 1,
+        "Stick": 2
+    },
+    "Diamond Sword": {
+        "Diamond": 2,
+        "Stick": 1
+    },
+    "Diorite": {
+        "Cobblestone": 2,
+        "Nether Quartz": 2
+    },
+    "Diorite (Polished)": {
+        "Diorite": 4
+    },
+    "Dirt (Coarse)": {
+        "Dirt": 2,
+        "Gravel": 2
+    },
+    "Dispenser": {
+        "Cobblestone": 7,
+        "Bow": 1,
+        "Redstone Dust": 1
+    },
+    "Dropper": {
+        "Cobblestone": 7,
+        "Redstone Dust": 1
+    },
+    "Dye (Red Rose)": {
+        "Poppy": 1
+    },
+    "Dye (Cactus Green)": {
+        "Cactus": 1,
+        "Coal": 1
+    },
+    "Dye (Purple)": {
+        "Lapis Lazuli": 1,
+        "Dye (Red Rose)": 1
+    },
+    "Dye (Cyan)": {
+        "Lapis Lazuli": 1,
+        "Dye (Cactus Green)": 1
+    },
+    "Dye (Light Gray)": {
+        "Ink Sac": 1,
+        "Bone Meal": 2
+    },
+    "Dye (Gray)": {
+        "Ink Sac": 1,
+        "Bone Meal": 1
+    },
+    "Dye (Pink)": {
+        "Dye (Red Rose)": 1,
+        "Bone Meal": 1
+    },
+    "Dye (Lime)": {
+        "Dye (Cactus Green)": 1,
+        "Bone Meal": 1
+    },
+    "Dye (Yellow)": {
+        "Dandelion": 1
+    },
+    "Dye (Light Blue)": {
+        "Bone Meal": 1,
+        "Lapis Lazuli": 1
+    },
+    "Dye (Magenta)": {
+        "Lapis Lazuli": 1,
+        "Bone Meal": 1,
+        "Dye (Red Rose)": 2
+    },
+    "Dye (Orange)": {
+        "Dye (Red Rose)": 1,
+        "Dye (Yellow)": 1
+    },
+    "Emerald": {
+        "Emerald Block": 1
+    },
+    "Emerald Block": {
+        "Emerald": 9
+    },
+    "Enchantment Table": {
+        "Book": 1,
+        "Diamond": 2,
+        "Obsidian": 4
+    },
+    "End Crystal": {
+        "Glass": 7,
+        "Eye of Ender": 1,
+        "Ghast Tear": 1
+    },
+    "End Rod": {
+        "Blaze Rod": 1,
+        "Popped Chorus Fruit": 1
+    },
+    "End Stone Bricks": {
+        "End Stone": 4
+    },
+    "Ender Chest": {
+        "Obsidian": 8,
+        "Eye of Ender": 1
+    },
+    "Eye of Ender": {
+        "Ender Pearl": 1,
+        "Blaze Powder": 1
+    },
+    "Fence": {
+        "Wooden Plank": 4,
+        "Stick": 2
+    },
+    "Fence Gate": {
+        "Stick": 4,
+        "Wooden Plank": 2
+    },
+    "Fire Charge": {
+        "Blaze Powder": 1,
+        "Coal": 1,
+        "Gunpowder": 1
+    },
+    "Firework Rocket": {
+        "Firework Star": 1,
+        "Paper": 1,
+        "Gunpowder": 1
+    },
+    "Firework Star": {
+        "Gunpowder": 1,
+        "Dye (Gray)": 1
+    },
+    "Fish (Cooked)": {
+        "Fish (Raw)": 1,
+        "Coal": 1
+    },
+    "Fishing Rod": {
+        "Stick": 3,
+        "String": 2
+    },
+    "Flint and Steel": {
+        "Iron Ingot": 1,
+        "Flint": 1
+    },
+    "Flower Pot": {
+        "Clay Brick": 3
+    },
+    "Furnace": {
+        "Cobblestone": 8
+    },
+    "Glass": {
+        "Sand": 1,
+        "Coal": 1
+    },
+    "Glass (Stained)": {
+        "Glass": 8,
+        "Dye (Red Rose)": 1
+    },
+    "Glass Pane": {
+        "Glass": 6
+    },
+    "Glass Bottle": {
+        "Glass": 3
+    },
+    "Gold Axe": {
+        "Gold Ingot": 3,
+        "Stick": 2
+    },
+    "Gold Block": {
+        "Gold Ingot": 9
+    },
+    "Gold Boots": {
+        "Gold Ingot": 4
+    },
+    "Gold Chestplate": {
+        "Gold Ingot": 8
+    },
+    "Gold Helmet": {
+        "Gold Ingot": 5
+    },
+    "Gold Hoe": {
+        "Gold Ingot": 2,
+        "Stick": 2
+    },
+    "Gold Ingot": {
+        "Gold Ore": 1,
+        "Coal": 1
+    },
+    "Gold Leggings": {
+        "Gold Ingot": 7
+    },
+    "Gold Nugget": {
+        "Gold Ingot": 1
+    },
+    "Gold Pickaxe": {
+        "Gold Ingot": 3,
+        "Stick": 2
+    },
+    "Gold Shovel": {
+        "Gold Ingot": 1,
+        "Stick": 2
+    },
+    "Gold Sword": {
+        "Gold Ingot": 2,
+        "Stick": 1
+    },
+    "Glowstone Block": {
+        "Glowstone Dust": 4
+    },
+    "Granite": {
+        "Diorite": 1,
+        "Nether Quartz": 1
+    },
+    "Granite (Polished)": {
+        "Granite": 4
+    },
+    "Hay Bale": {
+        "Wheat": 9
+    },
+    "Hopper": {
+        "Iron Ingot": 5,
+        "Chest": 1
+    },
+    "Iron Axe": {
+        "Iron Ingot": 3,
+        "Stick": 2
+    },
+    "Iron Block": {
+        "Iron Ingot": 9
+    },
+    "Iron Boots": {
+        "Iron Ingot": 4
+    },
+    "Iron Bars": {
+        "Iron Ingot": 6
+    },
+    "Iron Chestplate": {
+        "Iron Ingot": 8
+    },
+    "Iron Door": {
+        "Iron Ingot": 6
+    },
+    "Iron Helmet": {
+        "Iron Ingot": 5
+    },
+    "Iron Hoe": {
+        "Iron Ingot": 2,
+        "Stick": 2
+    },
+    "Iron Ingot": {
+        "Iron Ore": 1,
+        "Coal": 1
+    },
+    "Iron Leggings": {
+        "Iron Ingot": 7
+    },
+    "Iron Pickaxe": {
+        "Iron Ingot": 3,
+        "Stick": 2
+    },
+    "Iron Shovel": {
+        "Iron Ingot": 1,
+        "Stick": 2
+    },
+    "Iron Sword": {
+        "Iron Ingot": 2,
+        "Stick": 1
+    },
+    "Item Frame": {
+        "Stick": 8,
+        "Leather": 1
+    },
+    "Jack-O-Lantern": {
+        "Pumpkin": 1,
+        "Torch": 1
+    },
+    "Jukebox": {
+        "Wooden Plank": 8,
+        "Diamond": 1
+    },
+    "Ladder": {
+        "Stick": 7
+    },
+    "Lapis Lazuli Block": {
+        "Lapis Lazuli": 9
+    },
+    "Lead": {
+        "String": 4,
+        "Slimeball": 1
+    },
+    "Leather": {
+        "Rabbit Hide": 4
+    },
+    "Leather Boots": {
+        "Leather": 4
+    },
+    "Leather Chestplate": {
+        "Leather": 8
+    },
+    "Leather Helmet": {
+        "Leather": 5
+    },
+    "Leather Leggings": {
+        "Leather": 7
+    },
+    "Lever": {
+        "Stick": 1,
+        "Cobblestone": 1
+    },
+    "Magma Cream": {
+        "Slimeball": 1,
+        "Blaze Powder": 1
+    },
+    "Map": {
+        "Paper": 8,
+        "Compass": 1
+    },
+    "Melon": {
+        "Melon Slice": 9
+    },
+    "Melon (Glistering)": {
+        "Gold Nugget": 8,
+        "Melon Slice": 1
+    },
+    "Minecart": {
+        "Iron Ingot": 5
+    },
+    "Minecart (with Hopper)": {
+        "Hopper": 1,
+        "Minecart": 1
+    },
+    "Minecart (with Furnace)": {
+        "Furnace": 1,
+        "Minecart": 1
+    },
+    "Minecart (with Chest)": {
+        "Chest": 1,
+        "Minecart": 1
+    },
+    "Minecart (with TNT)": {
+        "TNT": 1,
+        "Minecart": 1
+    },
+    "Mushroom Stew": {
+        "Mushroom (Red)": 1,
+        "Mushroom (Brown)": 1,
+        "Bowl": 1
+    },
+    "Mutton (Cooked)": "423,263",
+    "Nether Brick": {
+        "Nether Brick (Item)": 4
+    },
+    "Nether Brick (Item)": {
+        "Netherrack": 1,
+        "Coal": 1
+    },
+    "Nether Brick (Red)": {
+        "Nether Wart": 2,
+        "Nether Brick": 2
+    },
+    "Nether Brick Fence": {
+        "Nether Brick": 6
+    },
+    "Nether Brick Stairs": {
+        "Nether Brick": 6
+    },
+    "Nether Wart Block": {
+        "Nether Wart": 9
+    },
+    "Note Block": {
+        "Wooden Plank": 8,
+        "Redstone Dust": 1
+    },
+    "Observer": {
+        "Cobblestone": 6,
+        "Redstone Dust": 2,
+        "Nether Quartz": 1
+    },
+    "Paintings": {
+        "Stick": 8,
+        "Wool (White)": 1
+    },
+    "Paper": {
+        "Sugar Cane": 3
+    },
+    "Piston": {
+        "Wooden Plank": 3,
+        "Cobblestone": 4,
+        "Iron Ingot": 1,
+        "Redstone Dust": 1
+    },
+    "Piston (Sticky)": {
+        "Slimeball": 1,
+        "Piston": 1
+    },
+    "Popped Chorus Fruit": {
+        "Chorus Fruit": 1,
+        "Coal": 1
+    },
+    "Porkchop (Cooked)": {
+        "Porkchop (Raw)": 1,
+        "Coal": 1
+    },
+    "Potato (Baked)": {
+        "Potato": 1,
+        "Coal": 1
+    },
+    "Pressure Plate (Weighted Gold)": {
+        "Gold Ingot": 2
+    },
+    "Pressure Plate (Weighted Iron)": {
+        "Iron Ingot": 2
+    },
+    "Pressure Plate (Stone)": {
+        "Stone": 2
+    },
+    "Pressure Plate (Wooden)": {
+        "Wooden Plank": 2
+    },
+    "Prismarine": {
+        "Prismarine Shards": 4
+    },
+    "Prismarine (Dark)": {
+        "Prismarine Shards": 8,
+        "Ink Sac": 1
+    },
+    "Prismarine Bricks": {
+        "Prismarine Shards": 9
+    },
+    "Pumpkin Pie": {
+        "Pumpkin": 1,
+        "Sugar": 1,
+        "Egg": 1
+    },
+    "Pumpkin Seeds": {
+        "Pumpkin": 1
+    },
+    "Purpur Stairs": {
+        "Purpur Block": 6
+    },
+    "Purpur Slab": {
+        "Purpur Block": 3
+    },
+    "Quartz Block": {
+        "Nether Quartz": 4
+    },
+    "Quartz Block (Chiseled)": {
+        "Quartz Slab": 2
+    },
+    "Quartz Block (Pillar)": {
+        "Quartz Block": 2
+    },
+    "Quartz Slab": {
+        "Quartz Block": 3
+    },
+    "Quartz Stairs": {
+        "Quartz Block": 6
+    },
+    "Rabbit (Cooked)": {
+        "Rabbit (Raw)": 1,
+        "Coal": 1
+    },
+    "Rabbit Stew": {
+        "Rabbit (Cooked)": 1,
+        "Carrot": 1,
+        "Potato (Baked)": 1,
+        "Mushroom (Brown)": 1,
+        "Bowl": 1
+    },
+    "Rail": {
+        "Iron Ingot": 6,
+        "Stick": 1
+    },
+    "Rail (Activator)": {
+        "Iron Ingot": 6,
+        "Stick": 2,
+        "Redstone Torch (On)": 1
+    },
+    "Rail (Detector)": {
+        "Iron Ingot": 6,
+        "Pressure Plate (Stone)": 1,
+        "Redstone Dust": 1
+    },
+    "Rail (Powered)": {
+        "Gold Ingot": 6,
+        "Stick": 1,
+        "Redstone Dust": 1
+    },
+    "Redstone Block": {
+        "Redstone Dust": 9
+    },
+    "Redstone Comparator": {
+        "Redstone Torch (On)": 3,
+        "Nether Quartz": 1,
+        "Stone": 3
+    },
+    "Redstone Lamp": {
+        "Redstone Dust": 4,
+        "Glowstone Block": 1
+    },
+    "Redstone Torch (On)": {
+        "Redstone Dust": 1,
+        "Stick": 1
+    },
+    "Redstone Repeater (Off)": {
+        "Redstone Torch (On)": 2,
+        "Redstone Dust": 1,
+        "Stone": 3
+    },
+    "Salmon (Cooked)": {
+        "Salmon (Raw)": 1,
+        "Coal": 1
+    },
+    "Sandstone": {
+        "Sand": 4
+    },
+    "Sandstone (Red)": {
+        "Sand (Red)": 4
+    },
+    "Sea Lantern": {
+        "Prismarine Shards": 4,
+        "Prismarine Crystals": 5
+    },
+    "Shears": {
+        "Iron Ingot": 2
+    },
+    "Shield": {
+        "Wooden Plank": 6,
+        "Iron Ingot": 1
+    },
+    "Shulker Box": {
+        "Shulker Shell": 2,
+        "Chest": 1
+    },
+    "Sign": {
+        "Wooden Plank": 6,
+        "Stick": 1
+    },
+    "Slime Block": {
+        "Slimeball": 9
+    },
+    "Snow Block": {
+        "Snowball": 4
+    },
+    "Spider Eye (Fermented)": {
+        "Spider Eye": 1,
+        "Sugar": 1,
+        "Mushroom (Brown)": 1
+    },
+    "Sponge": {
+        "Sponge (Wet)": 1,
+        "Coal": 1
+    },
+    "Stick": {
+        "Wooden Plank": 2
+    },
+    "Stone": {
+        "Cobblestone": 1,
+        "Coal": 1
+    },
+    "Stone Axe": {
+        "Cobblestone": 3,
+        "Stick": 2
+    },
+    "Stone Button": {
+        "Stone": 2
+    },
+    "Stone Brick": {
+        "Stone": 4
+    },
+    "Stone Hoe": {
+        "Cobblestone": 2,
+        "Stick": 2
+    },
+    "Stone Pickaxe": {
+        "Cobblestone": 3,
+        "Stick": 2
+    },
+    "Stone Shovel": {
+        "Cobblestone": 1,
+        "Stick": 2
+    },
+    "Stone Slab": {
+        "Stone": 3
+    },
+    "Stone Sword": {
+        "Cobblestone": 2,
+        "Stick": 1
+    },
+    "Stone Stairs": {
+        "Stone Brick": 6
+    },
+    "Sugar": {
+        "Sugar Cane": 1
+    },
+    "Terracotta": {
+        "Clay Block": 1,
+        "Coal": 1
+    },
+    "Terracotta (Glazed)": {
+        "Terracotta (Stained)": 1,
+        "Coal": 1
+    },
+    "Terracotta (Stained)": {
+        "Terracotta": 8,
+        "Bone Meal": 1
+    },
+    "TNT": {
+        "Gunpowder": 5,
+        "Sand": 4
+    },
+    "Torch": {
+        "Coal": 1,
+        "Stick": 1
+    },
+    "Trapdoor (Wooden)": {
+        "Wooden Plank": 6
+    },
+    "Trapdoor (Iron)": {
+        "Iron Ingot": 4
+    },
+    "Tripwire Hook": {
+        "Iron Ingot": 1,
+        "Stick": 1,
+        "Wooden Plank": 1
+    },
+    "Wooden Axe": {
+        "Wooden Plank": 3,
+        "Stick": 2
+    },
+    "Wooden Door": {
+        "Wooden Plank": 6
+    },
+    "Wooden Hoe": {
+        "Wooden Plank": 2,
+        "Stick": 2
+    },
+    "Wooden Pickaxe": {
+        "Wooden Plank": 3,
+        "Stick": 2
+    },
+    "Wooden Plank": {
+        "Wood": 1
+    },
+    "Wooden Shovel": {
+        "Wooden Plank": 1,
+        "Stick": 2
+    },
+    "Wooden Slab": {
+        "Wooden Plank": 3
+    },
+    "Wooden Stairs": {
+        "Wooden Plank": 6
+    },
+    "Wooden Sword": {
+        "Wooden Plank": 2,
+        "Stick": 1
+    },
+    "Wool (White)": {
+        "String": 4
+    },
+    "Wool (Orange)": {
+        "Wool (White)": 1,
+        "Dye (Orange)": 1
+    },
+    "Wool (Magenta)": {
+        "Wool (White)": 1,
+        "Dye (Magenta)": 1
+    },
+    "Wool (Light Blue)": {
+        "Wool (White)": 1,
+        "Dye (Light Blue)": 1
+    },
+    "Wool (Yellow)": {
+        "Wool (White)": 1,
+        "Dye (Yellow)": 1
+    },
+    "Wool (Light Green)": {
+        "Wool (White)": 1,
+        "Dye (Lime)": 1
+    },
+    "Wool (Pink)": {
+        "Wool (White)": 1,
+        "Dye (Pink)": 1
+    },
+    "Wool (Gray)": {
+        "Wool (White)": 1,
+        "Dye (Gray)": 1
+    },
+    "Wool (Light Gray)": {
+        "Wool (White)": 1,
+        "Dye (Light Gray)": 1
+    },
+    "Wool (Cyan)": {
+        "Wool (White)": 1,
+        "Dye (Cyan)": 1
+    },
+    "Wool (Purple)": {
+        "Wool (White)": 1,
+        "Dye (Purple)": 1
+    },
+    "Wool (Blue)": {
+        "Wool (White)": 1,
+        "Lapis Lazuli": 1
+    },
+    "Wool (Brown)": {
+        "Wool (White)": 1,
+        "Cocoa Beans": 1
+    },
+    "Wool (Dark Green)": {
+        "Wool (White)": 1,
+        "Dye (Cactus Green)": 1
+    },
+    "Wool (Red)": {
+        "Wool (White)": 1,
+        "Dye (Red Rose)": 1
+    },
+    "Wool (Black)": {
+        "Wool (White)": 1,
+        "Ink Sac": 1
+    }
+}
