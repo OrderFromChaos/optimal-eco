@@ -77,5 +77,5 @@ for key, subdict in ID_lookup.items():
     if subdict['recipe'] is not None:
         findict[subdict['name']] = subdict['recipe']
 
-with open('recipes.json', 'w') as f:
+with open('../recipes.json', 'w') as f:
     json.dump(findict, f, indent=4)

@@ -8,7 +8,7 @@ import csv
 
 def convertCSV(server_name: str) -> None:
     outJSON = dict()
-    subfolder = './' + server_name + '/'
+    subfolder = '../' + server_name + '/'
     with open(subfolder + 'ecoinfo.csv', 'r') as f:
         reader = csv.reader(f)
         for row in reader:
