@@ -169,12 +169,12 @@
         "Sell Price": null,
         "Automation State": 2.0
     },
-    "Stone Bricks": {
+    "Stone Brick": {
         "Buy Price": 45.0,
         "Sell Price": 0.2,
         "Automation State": 3.0
     },
-    "Jack o'Lantern": {
+    "Jack-O-Lantern": {
         "Buy Price": 155.0,
         "Sell Price": 0.9,
         "Automation State": 0.0
@@ -324,17 +324,17 @@
         "Sell Price": 250.0,
         "Automation State": 1.0
     },
-    "Minecart with Chest": {
+    "Minecart (with Chest)": {
         "Buy Price": 1300.0,
         "Sell Price": 275.0,
         "Automation State": 1.0
     },
-    "Minecart with Furnace": {
+    "Minecart (with Furnace)": {
         "Buy Price": 1350.0,
         "Sell Price": 300.0,
         "Automation State": 1.0
     },
-    "Minecart with TNT": {
+    "Minecart (with TNT)": {
         "Buy Price": 1500.0,
         "Sell Price": 400.0,
         "Automation State": 1.0
@@ -344,7 +344,7 @@
         "Sell Price": 50.0,
         "Automation State": 1.0
     },
-    "Sticky Piston": {
+    "Piston (Sticky)": {
         "Buy Price": 500.0,
         "Sell Price": 60.0,
         "Automation State": 1.0
@@ -359,17 +359,17 @@
         "Sell Price": 300.0,
         "Automation State": 1.0
     },
-    "Powered Rail": {
+    "Rail (Powered)": {
         "Buy Price": 3000.0,
         "Sell Price": 450.0,
         "Automation State": 1.0
     },
-    "Detector Rail": {
+    "Rail (Detector)": {
         "Buy Price": 1500.0,
         "Sell Price": 300.0,
         "Automation State": 1.0
     },
-    "Activator Rail": {
+    "Rail (Activator)": {
         "Buy Price": 1500.0,
         "Sell Price": 300.0,
         "Automation State": 1.0
@@ -399,17 +399,17 @@
         "Sell Price": 3.0,
         "Automation State": 1.0
     },
-    "Light Weighted Pressure Plate": {
+    "Pressure Plate (Weighted Gold)": {
         "Buy Price": 1300.0,
         "Sell Price": 150.0,
         "Automation State": 1.0
     },
-    "Heavy Weighted Pressure Plate": {
+    "Pressure Plate (Weighted Iron)": {
         "Buy Price": 500.0,
         "Sell Price": 100.0,
         "Automation State": 1.0
     },
-    "Daylight Detector": {
+    "Daylight Sensor": {
         "Buy Price": 300.0,
         "Sell Price": 5.0,
         "Automation State": 1.0
@@ -424,7 +424,7 @@
         "Sell Price": 800.0,
         "Automation State": 1.0
     },
-    "Golden Apple": {
+    "Apple (Golden)": {
         "Buy Price": 600.0,
         "Sell Price": 200.0,
         "Automation State": 1.0
@@ -434,12 +434,12 @@
         "Sell Price": 0.32,
         "Automation State": 1.0
     },
-    "Cooked Porkchop": {
+    "Porkchop (Cooked)": {
         "Buy Price": 13.5,
         "Sell Price": 0.34,
         "Automation State": 1.0
     },
-    "Golden Carrot": {
+    "Carrot (Golden)": {
         "Buy Price": 250.0,
         "Sell Price": 20.0,
         "Automation State": 1.0
@@ -454,7 +454,7 @@
         "Sell Price": 0.75,
         "Automation State": 0.0
     },
-    "Cooked Cod": {
+    "Cod (Cooked)": {
         "Buy Price": 12.5,
         "Sell Price": 0.85,
         "Automation State": 1.0
@@ -474,17 +474,17 @@
         "Sell Price": 1.75,
         "Automation State": 0.0
     },
-    "Cooked Rabbit": {
+    "Rabbit (Cooked)": {
         "Buy Price": 15.0,
         "Sell Price": 0.35,
         "Automation State": 1.0
     },
-    "Cooked Chicken": {
+    "Chicken (Cooked)": {
         "Buy Price": 12.0,
         "Sell Price": 0.2,
         "Automation State": 1.0
     },
-    "Cooked Mutton": {
+    "Mutton (Cooked)": {
         "Buy Price": 16.5,
         "Sell Price": 0.5,
         "Automation State": 1.0
@@ -504,7 +504,7 @@
         "Sell Price": 1.65,
         "Automation State": 1.0
     },
-    "Cooked Salmon": {
+    "Salmon (Cooked)": {
         "Buy Price": 18.5,
         "Sell Price": 0.95,
         "Automation State": 1.0
@@ -519,7 +519,7 @@
         "Sell Price": 0.9,
         "Automation State": 4.0
     },
-    "Glistering Melon Slice": {
+    "Melon Slice (Glistering)": {
         "Buy Price": 100.0,
         "Sell Price": 0.35,
         "Automation State": 1.0
@@ -614,7 +614,7 @@
         "Sell Price": 1.5,
         "Automation State": 4.0
     },
-    "Fermented Spider Eye": {
+    "Spider Eye (Fermented)": {
         "Buy Price": 25.0,
         "Sell Price": 0.85,
         "Automation State": 4.0

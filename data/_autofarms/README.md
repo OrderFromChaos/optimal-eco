@@ -10,19 +10,21 @@ As a result, the format is a json structured as follows:
 ```
 {
     <str>: { # Name of autofarm
-        'Build materials': {
+        "Build Cost": {
             <str>: <int>, # Item Name: Quantity
             ...
         },
-        'Inputs': {
+        "Inputs": {
             <str>: <int>, # Item Name: Quantity
             ...
         },
-        'Outputs': {
+        "Outputs": {
             <str>: <int>, # Item Name: Quantity
             ...
         },
-        'Additional Comments': <str>
+        "Size": [<int>, <int>, <int>], # x,y,z
+        "URL": <str>
+        "Additional Comments": <str>
     },
     ...
 }

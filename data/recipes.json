@@ -137,10 +137,10 @@
         "Chest": 1
     },
     "Clay Block": {
-        "Clay Balls": 4
+        "Clay": 4
     },
     "Clay Brick": {
-        "Clay Balls": 1,
+        "Clay": 1,
         "Coal": 1
     },
     "Clock": {
@@ -148,7 +148,7 @@
         "Redstone Dust": 1
     },
     "Charcoal": {
-        "Wood": 1,
+        "Oak Log": 1,
         "Coal": 1
     },
     "Chicken (Cooked)": {
@@ -158,8 +158,11 @@
     "Coal Block": {
         "Coal": 9
     },
+    "Cobblestone Slab": {
+        "Cobblestone": 0.5
+    },
     "Cobblestone Stairs": {
-        "Cobblestone": 6
+        "Cobblestone": 1.5
     },
     "Cobblestone Wall": {
         "Cobblestone": 6
@@ -290,9 +293,6 @@
         "Dye (Red Rose)": 1,
         "Dye (Yellow)": 1
     },
-    "Emerald": {
-        "Emerald Block": 1
-    },
     "Emerald Block": {
         "Emerald": 9
     },
@@ -417,7 +417,7 @@
         "Gold Ingot": 2,
         "Stick": 1
     },
-    "Glowstone Block": {
+    "Glowstone": {
         "Glowstone Dust": 4
     },
     "Granite": {
@@ -459,10 +459,6 @@
     "Iron Hoe": {
         "Iron Ingot": 2,
         "Stick": 2
-    },
-    "Iron Ingot": {
-        "Iron Ore": 1,
-        "Coal": 1
     },
     "Iron Leggings": {
         "Iron Ingot": 7
@@ -531,7 +527,7 @@
     "Melon": {
         "Melon Slice": 9
     },
-    "Melon (Glistering)": {
+    "Melon Slice (Glistering)": {
         "Gold Nugget": 8,
         "Melon Slice": 1
     },
@@ -554,12 +550,19 @@
         "TNT": 1,
         "Minecart": 1
     },
+    "Mossy Cobblestone": {
+        "Cobblestone": 1,
+        "Vine": 1
+    },
     "Mushroom Stew": {
         "Mushroom (Red)": 1,
         "Mushroom (Brown)": 1,
         "Bowl": 1
     },
-    "Mutton (Cooked)": "423,263",
+    "Mutton (Cooked)": {
+        "Mutton (Raw)": 1,
+        "Coal": 1
+    },
     "Nether Brick": {
         "Nether Brick (Item)": 4
     },
@@ -588,6 +591,9 @@
         "Cobblestone": 6,
         "Redstone Dust": 2,
         "Nether Quartz": 1
+    },
+    "Packed Ice": {
+        "Ice": 9
     },
     "Paintings": {
         "Stick": 8,
@@ -652,7 +658,7 @@
         "Purpur Block": 6
     },
     "Purpur Slab": {
-        "Purpur Block": 3
+        "Purpur Block": 0.5
     },
     "Quartz Block": {
         "Nether Quartz": 4
@@ -664,7 +670,7 @@
         "Quartz Block": 2
     },
     "Quartz Slab": {
-        "Quartz Block": 3
+        "Quartz Block": 0.5
     },
     "Quartz Stairs": {
         "Quartz Block": 6
@@ -687,7 +693,7 @@
     "Rail (Activator)": {
         "Iron Ingot": 6,
         "Stick": 2,
-        "Redstone Torch (On)": 1
+        "Redstone Torch": 1
     },
     "Rail (Detector)": {
         "Iron Ingot": 6,
@@ -703,7 +709,7 @@
         "Redstone Dust": 9
     },
     "Redstone Comparator": {
-        "Redstone Torch (On)": 3,
+        "Redstone Torch": 3,
         "Nether Quartz": 1,
         "Stone": 3
     },
@@ -711,12 +717,12 @@
         "Redstone Dust": 4,
         "Glowstone Block": 1
     },
-    "Redstone Torch (On)": {
+    "Redstone Torch": {
         "Redstone Dust": 1,
         "Stick": 1
     },
-    "Redstone Repeater (Off)": {
-        "Redstone Torch (On)": 2,
+    "Redstone Repeater": {
+        "Redstone Torch": 2,
         "Redstone Dust": 1,
         "Stone": 3
     },
@@ -794,7 +800,7 @@
         "Stick": 2
     },
     "Stone Slab": {
-        "Stone": 3
+        "Stone": 0.5
     },
     "Stone Sword": {
         "Cobblestone": 2,
@@ -853,14 +859,14 @@
         "Stick": 2
     },
     "Wooden Plank": {
-        "Wood": 1
+        "Oak Log": 1
     },
     "Wooden Shovel": {
         "Wooden Plank": 1,
         "Stick": 2
     },
     "Wooden Slab": {
-        "Wooden Plank": 3
+        "Wooden Plank": 0.5
     },
     "Wooden Stairs": {
         "Wooden Plank": 6

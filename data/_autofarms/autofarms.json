@@ -1,0 +1,112 @@
+{
+    "Melon/Pumpkin Farm": {
+        "Build Cost": {
+            "Hopper": 80,
+            "Observer": 40,
+            "Piston": 40,
+            "Note Block": 40,
+            "Wooden Plank": 40,
+            "Dirt": 80,
+            "Jack-O-Lantern": 1
+        },
+        "Inputs": {},
+        "Outputs": {
+            "Melon": 57,
+            "Carved Pumpkin": 124
+        },
+        "Size": [9,5,9],
+        "URL": "https://www.youtube.com/watch?v=z3Y_cljLdj8",
+        "Additional Comments": "May not need all 80 dirt; look into growth patterns"
+    },
+    "ilmango Simple Tree Farm (TNT Duper)": {
+        "Build Cost": {
+            "Slime Block": 7,
+            "Hopper": 27,
+            "Piston (Sticky)": 5,
+            "Minecart (with Hopper)": 2,
+            "Observer": 4,
+            "Redstone Repeater": 14,
+            "Redstone Comparator": 2,
+            "Rail (Detector)": 1,
+            "Redstone Dust": 22,
+            "Ender Chest": 1,
+            "Dropper": 5,
+            "Chest": 4,
+            "TNT": 1,
+            "Wooden Plank": 40,
+            "Dispenser": 1,
+            "Oak Log": 4,
+            "Redstone Torch": 1,
+            "Stone Slab": 5,
+            "Cobblestone Wall": 2,
+            "Lever": 1,
+            "Dirt": 1,
+            "Terracotta (Glazed)": 1,
+            "Coral Fan": 1
+        },
+        "Inputs": {
+            "Bone Meal": 4800
+        },
+        "Outputs": {
+            "Birch Log": 1116
+        },
+        "Size": [5, 21, 14],
+        "URL": "https://www.youtube.com/watch?v=Q2ER_bTFMEA",
+        "Additional Comments": ""
+    },
+    "Auto Sugarcane (GreenGuitarGuyGames)": {
+        "Build Cost": {
+            "Piston": 16,
+            "Observer": 16,
+            "Hopper": 2,
+            "Chest": 2,
+            "Redstone Dust": 16,
+            "Wooden Plank": 60
+        },
+        "Inputs": {},
+        "Outputs": {
+            "Sugar Cane": 23
+        },
+        "Size": [18,4,5],
+        "URL": "https://www.youtube.com/watch?v=YK_BcHG2NlM",
+        "Additional Comments": "High loss rate on sugar cane - 10 were not gathered"
+    },
+    "0-tick Sugarcane (ilmango)": {
+        "Build Cost": {
+            "Piston": 5,
+            "Piston (Sticky)": 4,
+            "Redstone Dust": 2,
+            "Slime Block": 1,
+            "Redstone Block": 1,
+            "Observer": 1,
+            "Dirt": 2,
+            "Hopper": 1,
+            "Lever": 1,
+            "Redstone Torch": 2,
+            "Wooden Plank": 8
+        },
+        "Inputs": {},
+        "Outputs": {
+            "Sugar Cane": 1400
+        },
+        "Size": [6,5,5],
+        "URL": "https://www.youtube.com/watch?v=2wVzDC4bsZk",
+        "Additional Comments": "What the fuck? Need to test this in 1.14.4. -> Doesn't work on server due to lag, unfortunately."
+    },
+    "1 level xsisumavoid cactus farm": {
+        "Build Cost": {
+            "Wooden Plank": 36,
+            "Wooden Slab": 81,
+            "Cactus": 0,
+            "Sand": 16,
+            "Fence": 8
+        },
+        "Inputs": {},
+        "Outputs": {
+            "Cactus": 514
+        },
+        "Size": [10,4,10],
+        "URL": "https://youtu.be/gEmfNspyvWk?t=576",
+        "Additional Comments": "Everyone says this is the most efficient on skyblock..."
+    }
+}

@@ -1,0 +1,1825 @@
+{
+    "Coal": {
+        "Buy Price": 15.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Coal": 1
+        }
+    },
+    "Redstone Dust": {
+        "Buy Price": 40.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Redstone Dust": 1
+        }
+    },
+    "Lapis": {
+        "Buy Price": 80.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Lapis": 1
+        }
+    },
+    "Gold": {
+        "Buy Price": 250.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Gold": 1
+        }
+    },
+    "Iron": {
+        "Buy Price": 650.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Iron": 1
+        }
+    },
+    "Diamond": {
+        "Buy Price": 2800.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Diamond": 1
+        }
+    },
+    "Emerald": {
+        "Buy Price": 4200.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Emerald": 1
+        }
+    },
+    "Gravel": {
+        "Buy Price": 200.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Gravel": 1
+        }
+    },
+    "Stone": {
+        "Buy Price": 8.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Stone": 1
+        }
+    },
+    "Cobblestone": {
+        "Buy Price": 5.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Cobblestone": 1
+        }
+    },
+    "Grass Block": {
+        "Buy Price": 1000.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Grass Block": 1
+        }
+    },
+    "Dirt": {
+        "Buy Price": 800.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Dirt": 1
+        }
+    },
+    "Sand": {
+        "Buy Price": 1500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Sand": 1
+        }
+    },
+    "Oak Log": {
+        "Buy Price": 9.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Birch Log": {
+        "Buy Price": 12.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Birch Log": 1
+        }
+    },
+    "Jungle Log": {
+        "Buy Price": 12.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Jungle Log": 1
+        }
+    },
+    "Spruce Log": {
+        "Buy Price": 12.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Spruce Log": 1
+        }
+    },
+    "Ice": {
+        "Buy Price": 150.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Ice": 1
+        }
+    },
+    "Packed Ice": {
+        "Buy Price": 200.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Packed Ice": 1
+        }
+    },
+    "Snow Block": {
+        "Buy Price": 80.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Snowball": 4
+        }
+    },
+    "Clay": {
+        "Buy Price": 150.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Clay": 1
+        }
+    },
+    "Bookshelf": {
+        "Buy Price": 120.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Bookshelf": 1
+        }
+    },
+    "White Wool": {
+        "Buy Price": 70.0,
+        "Crafting": false,
+        "Ingredients": {
+            "White Wool": 1
+        }
+    },
+    "Glass": {
+        "Buy Price": 400.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Glass": 1
+        }
+    },
+    "Mossy Cobblestone": {
+        "Buy Price": 400.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Mossy Cobblestone": 1
+        }
+    },
+    "Obsidian": {
+        "Buy Price": 300.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Obsidian": 1
+        }
+    },
+    "Sandstone": {
+        "Buy Price": 400.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Sandstone": 1
+        }
+    },
+    "Bricks": {
+        "Buy Price": 250.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Bricks": 1
+        }
+    },
+    "Block of Quartz": {
+        "Buy Price": 500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Block of Quartz": 1
+        }
+    },
+    "Chiseled Quartz": {
+        "Buy Price": 550.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Chiseled Quartz": 1
+        }
+    },
+    "Quartz Pillar": {
+        "Buy Price": 750.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Quartz Pillar": 1
+        }
+    },
+    "End Stone": {
+        "Buy Price": 750.0,
+        "Crafting": false,
+        "Ingredients": {
+            "End Stone": 1
+        }
+    },
+    "Nether Brick": {
+        "Buy Price": 25.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Netherrack": 1,
+            "Coal": 1
+        }
+    },
+    "Mycelium": {
+        "Buy Price": 2000.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Mycelium": 1
+        }
+    },
+    "Stone Brick": {
+        "Buy Price": 20.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Jack-O-Lantern": {
+        "Buy Price": 155.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Jack-O-Lantern": 1
+        }
+    },
+    "Glowstone": {
+        "Buy Price": 80.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Glowstone Dust": 4
+        }
+    },
+    "Soul Sand": {
+        "Buy Price": 275.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Soul Sand": 1
+        }
+    },
+    "Netherrack": {
+        "Buy Price": 10.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Netherrack": 1
+        }
+    },
+    "Purpur Block": {
+        "Buy Price": 200.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Purpur Block": 1
+        }
+    },
+    "Purpur Pillar": {
+        "Buy Price": 250.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Purpur Pillar": 1
+        }
+    },
+    "Carrot": {
+        "Buy Price": 92.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Carrot": 1
+        }
+    },
+    "Cactus": {
+        "Buy Price": 78.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Cactus": 1
+        }
+    },
+    "Potato": {
+        "Buy Price": 92.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Potato": 1
+        }
+    },
+    "Wheat": {
+        "Buy Price": 59.4,
+        "Crafting": false,
+        "Ingredients": {
+            "Wheat": 1
+        }
+    },
+    "Sugar Cane": {
+        "Buy Price": 78.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Sugar Cane": 1
+        }
+    },
+    "Melon": {
+        "Buy Price": 115.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Melon": 1
+        }
+    },
+    "Carved Pumpkin": {
+        "Buy Price": 115.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Carved Pumpkin": 1
+        }
+    },
+    "Oak Sapling": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Oak Sapling": 1
+        }
+    },
+    "Birch Sapling": {
+        "Buy Price": 250.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Birch Sapling": 1
+        }
+    },
+    "Spruce Sapling": {
+        "Buy Price": 275.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Spruce Sapling": 1
+        }
+    },
+    "Jungle Sapling": {
+        "Buy Price": 400.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Jungle Sapling": 1
+        }
+    },
+    "Acacia Sapling": {
+        "Buy Price": 450.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Acacia Sapling": 1
+        }
+    },
+    "Dark Oak Sapling": {
+        "Buy Price": 500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Dark Oak Sapling": 1
+        }
+    },
+    "Cocoa Beans": {
+        "Buy Price": 125.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Cocoa Beans": 1
+        }
+    },
+    "Nether Wart": {
+        "Buy Price": 150.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Nether Wart": 1
+        }
+    },
+    "Wheat Seeds": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Wheat Seeds": 1
+        }
+    },
+    "Pumpkin Seeds": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Pumpkin Seeds": 1
+        }
+    },
+    "Melon Seeds": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Melon Seeds": 1
+        }
+    },
+    "Beetroot Seeds": {
+        "Buy Price": 300.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Beetroot Seeds": 1
+        }
+    },
+    "Red Mushroom": {
+        "Buy Price": 225.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Red Mushroom": 1
+        }
+    },
+    "Brown Mushroom": {
+        "Buy Price": 225.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Brown Mushroom": 1
+        }
+    },
+    "Chorus Flower": {
+        "Buy Price": 415.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Chorus Flower": 1
+        }
+    },
+    "Chorus Fruit": {
+        "Buy Price": 200.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Chorus Fruit": 1
+        }
+    },
+    "Minecart": {
+        "Buy Price": 1250.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Minecart": 1
+        }
+    },
+    "Minecart (with Chest)": {
+        "Buy Price": 1259.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Minecart": 1
+        }
+    },
+    "Minecart (with Furnace)": {
+        "Buy Price": 1290.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 8,
+            "Minecart": 1
+        }
+    },
+    "Minecart (with TNT)": {
+        "Buy Price": 1500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Minecart (with TNT)": 1
+        }
+    },
+    "Piston": {
+        "Buy Price": 400.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Piston": 1
+        }
+    },
+    "Piston (Sticky)": {
+        "Buy Price": 450.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Slimeball": 1,
+            "Piston": 1
+        }
+    },
+    "Rail": {
+        "Buy Price": 1500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Rail": 1
+        }
+    },
+    "Rail (Powered)": {
+        "Buy Price": 3000.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Rail (Powered)": 1
+        }
+    },
+    "Rail (Detector)": {
+        "Buy Price": 1500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Rail (Detector)": 1
+        }
+    },
+    "Rail (Activator)": {
+        "Buy Price": 1500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Rail (Activator)": 1
+        }
+    },
+    "Redstone Repeater": {
+        "Buy Price": 80.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Redstone Repeater": 1
+        }
+    },
+    "Redstone Comparator": {
+        "Buy Price": 40.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Redstone Comparator": 1
+        }
+    },
+    "Hopper": {
+        "Buy Price": 3500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Hopper": 1
+        }
+    },
+    "Dropper": {
+        "Buy Price": 75.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 7,
+            "Redstone Dust": 1
+        }
+    },
+    "Dispenser": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Dispenser": 1
+        }
+    },
+    "Pressure Plate (Weighted Gold)": {
+        "Buy Price": 1300.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Pressure Plate (Weighted Gold)": 1
+        }
+    },
+    "Pressure Plate (Weighted Iron)": {
+        "Buy Price": 500.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Pressure Plate (Weighted Iron)": 1
+        }
+    },
+    "Daylight Sensor": {
+        "Buy Price": 300.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Daylight Sensor": 1
+        }
+    },
+    "Redstone Lamp": {
+        "Buy Price": 160.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Redstone Lamp": 1
+        }
+    },
+    "Jukebox": {
+        "Buy Price": 2800.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Jukebox": 1
+        }
+    },
+    "Apple (Golden)": {
+        "Buy Price": 600.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Apple (Golden)": 1
+        }
+    },
+    "Steak": {
+        "Buy Price": 14.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Steak": 1
+        }
+    },
+    "Porkchop (Cooked)": {
+        "Buy Price": 13.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Porkchop (Cooked)": 1
+        }
+    },
+    "Carrot (Golden)": {
+        "Buy Price": 250.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Carrot (Golden)": 1
+        }
+    },
+    "Apple": {
+        "Buy Price": 10.4,
+        "Crafting": false,
+        "Ingredients": {
+            "Apple": 1
+        }
+    },
+    "Bread": {
+        "Buy Price": 10.8,
+        "Crafting": false,
+        "Ingredients": {
+            "Bread": 1
+        }
+    },
+    "Cod (Cooked)": {
+        "Buy Price": 12.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Cod (Cooked)": 1
+        }
+    },
+    "Cake": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Cake": 1
+        }
+    },
+    "Cookie": {
+        "Buy Price": 40.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Cookie": 1
+        }
+    },
+    "Pumpkin Pie": {
+        "Buy Price": 19.4,
+        "Crafting": false,
+        "Ingredients": {
+            "Pumpkin Pie": 1
+        }
+    },
+    "Rabbit (Cooked)": {
+        "Buy Price": 15.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Rabbit (Cooked)": 1
+        }
+    },
+    "Chicken (Cooked)": {
+        "Buy Price": 12.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Chicken (Cooked)": 1
+        }
+    },
+    "Mutton (Cooked)": {
+        "Buy Price": 16.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Mutton (Cooked)": 1
+        }
+    },
+    "Baked Potato": {
+        "Buy Price": 35.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Baked Potato": 1
+        }
+    },
+    "Pufferfish": {
+        "Buy Price": 54.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Pufferfish": 1
+        }
+    },
+    "Tropical Fish": {
+        "Buy Price": 28.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Tropical Fish": 1
+        }
+    },
+    "Salmon (Cooked)": {
+        "Buy Price": 18.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Salmon (Cooked)": 1
+        }
+    },
+    "Rabbit Stew": {
+        "Buy Price": 40.2,
+        "Crafting": false,
+        "Ingredients": {
+            "Rabbit Stew": 1
+        }
+    },
+    "Mushroom Stew": {
+        "Buy Price": 25.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Mushroom Stew": 1
+        }
+    },
+    "Melon Slice (Glistering)": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Melon Slice (Glistering)": 1
+        }
+    },
+    "Popped Chorus Fruit": {
+        "Buy Price": 215.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Chorus Fruit": 1,
+            "Coal": 1
+        }
+    },
+    "String": {
+        "Buy Price": 12.5,
+        "Crafting": false,
+        "Ingredients": {
+            "String": 1
+        }
+    },
+    "Bone": {
+        "Buy Price": 4.7,
+        "Crafting": false,
+        "Ingredients": {
+            "Bone": 1
+        }
+    },
+    "Rotten Flesh": {
+        "Buy Price": 3.6,
+        "Crafting": false,
+        "Ingredients": {
+            "Rotten Flesh": 1
+        }
+    },
+    "Ender Pearl": {
+        "Buy Price": 70.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Ender Pearl": 1
+        }
+    },
+    "Slimeball": {
+        "Buy Price": 50.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Slimeball": 1
+        }
+    },
+    "Blaze Rod": {
+        "Buy Price": 200.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Blaze Rod": 1
+        }
+    },
+    "Feather": {
+        "Buy Price": 15.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Feather": 1
+        }
+    },
+    "Gunpowder": {
+        "Buy Price": 80.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Gunpowder": 1
+        }
+    },
+    "Snowball": {
+        "Buy Price": 20.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Snowball": 1
+        }
+    },
+    "Egg": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Egg": 1
+        }
+    },
+    "Leather": {
+        "Buy Price": 75.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Leather": 1
+        }
+    },
+    "Ink Sac": {
+        "Buy Price": 50.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Ink Sac": 1
+        }
+    },
+    "Spider Eye": {
+        "Buy Price": 15.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Spider Eye": 1
+        }
+    },
+    "Arrow": {
+        "Buy Price": 3.1,
+        "Crafting": false,
+        "Ingredients": {
+            "Arrow": 1
+        }
+    },
+    "Bow": {
+        "Buy Price": 47.0,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 3,
+            "Oak Log": 1
+        }
+    },
+    "Ghast Tear": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Ghast Tear": 1
+        }
+    },
+    "Magma Cream": {
+        "Buy Price": 50.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Magma Cream": 1
+        }
+    },
+    "Spider Eye (Fermented)": {
+        "Buy Price": 25.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Spider Eye (Fermented)": 1
+        }
+    },
+    "Glowstone Dust": {
+        "Buy Price": 20.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Glowstone Dust": 1
+        }
+    },
+    "Blaze Powder": {
+        "Buy Price": 50.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Blaze Powder": 1
+        }
+    },
+    "Cauldron": {
+        "Buy Price": 1750.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Cauldron": 1
+        }
+    },
+    "Brewing Stand": {
+        "Buy Price": 200.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Brewing Stand": 1
+        }
+    },
+    "Flint and Steel": {
+        "Buy Price": 200.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Flint and Steel": 1
+        }
+    },
+    "Water Bucket": {
+        "Buy Price": 750.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Water Bucket": 1
+        }
+    },
+    "Lava Bucket": {
+        "Buy Price": 5000.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Lava Bucket": 1
+        }
+    },
+    "Flint": {
+        "Buy Price": 50.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Flint": 1
+        }
+    },
+    "End Rod": {
+        "Buy Price": 400.0,
+        "Crafting": false,
+        "Ingredients": {
+            "End Rod": 1
+        }
+    },
+    "Nether Star": {
+        "Buy Price": 70000.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Nether Star": 1
+        }
+    },
+    "Beacon": {
+        "Buy Price": 50000.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Beacon": 1
+        }
+    },
+    "Spawner": {
+        "Buy Price": 100000.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Spawner": 1
+        }
+    },
+    "Nether Brick Stairs": {
+        "Buy Price": 25.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Netherrack": 1,
+            "Coal": 1
+        }
+    },
+    "Wooden Sword": {
+        "Buy Price": 19.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Dye (Gray)": {
+        "Buy Price": 54.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Ink Sac": 1,
+            "Bone": 1
+        }
+    },
+    "Stone Button": {
+        "Buy Price": 16.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Stone": 2
+        }
+    },
+    "Book and Quill": {
+        "Buy Price": 374.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Ink Sac": 1,
+            "Sugar Cane": 3,
+            "Leather": 1,
+            "Feather": 1
+        }
+    },
+    "End Stone Bricks": {
+        "Buy Price": 3000.0,
+        "Crafting": true,
+        "Ingredients": {
+            "End Stone": 4
+        }
+    },
+    "Chest": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Lever": {
+        "Buy Price": 14.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Cobblestone": 1
+        }
+    },
+    "Fence Gate": {
+        "Buy Price": 19.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Terracotta (Stained)": {
+        "Buy Price": 619.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Clay": 4,
+            "Coal": 1,
+            "Bone": 1
+        }
+    },
+    "Wooden Door": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Paper": {
+        "Buy Price": 234.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Sugar Cane": 3
+        }
+    },
+    "Leather Leggings": {
+        "Buy Price": 525.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Leather": 7
+        }
+    },
+    "Bone Meal": {
+        "Buy Price": 4.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Bone": 1
+        }
+    },
+    "Boat": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Trapdoor (Wooden)": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Sugar": {
+        "Buy Price": 78.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Sugar Cane": 1
+        }
+    },
+    "Wooden Stairs": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Cobblestone Wall": {
+        "Buy Price": 30.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 6
+        }
+    },
+    "Stone Hoe": {
+        "Buy Price": 19.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Oak Log": 1
+        }
+    },
+    "Wool (White)": {
+        "Buy Price": 50.0,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4
+        }
+    },
+    "Cobblestone Slab": {
+        "Buy Price": 2.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 0.5
+        }
+    },
+    "Ender Chest": {
+        "Buy Price": 2520.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Obsidian": 8,
+            "Ender Pearl": 1,
+            "Blaze Powder": 1
+        }
+    },
+    "Diamond Block": {
+        "Buy Price": 25200.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 9
+        }
+    },
+    "Arrow (Spectral)": {
+        "Buy Price": 83.1,
+        "Crafting": true,
+        "Ingredients": {
+            "Glowstone Dust": 4,
+            "Arrow": 1
+        }
+    },
+    "Wooden Plank": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Purpur Slab": {
+        "Buy Price": 100.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Purpur Block": 0.5
+        }
+    },
+    "Wooden Hoe": {
+        "Buy Price": 19.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Crafting Table": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Terracotta": {
+        "Buy Price": 615.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Clay": 4,
+            "Coal": 1
+        }
+    },
+    "Wooden Slab": {
+        "Buy Price": 4.75,
+        "Crafting": true,
+        "Ingredients": {
+            "Wooden Plank": 0.5
+        }
+    },
+    "Slime Block": {
+        "Buy Price": 450.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Slimeball": 9
+        }
+    },
+    "Minecart (with Hopper)": {
+        "Buy Price": 4750.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Hopper": 1,
+            "Minecart": 1
+        }
+    },
+    "Nether Brick (Item)": {
+        "Buy Price": 25.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Netherrack": 1,
+            "Coal": 1
+        }
+    },
+    "Bowl": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Wooden Axe": {
+        "Buy Price": 19.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Leather Chestplate": {
+        "Buy Price": 600.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Leather": 8
+        }
+    },
+    "Firework Rocket": {
+        "Buy Price": 448.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Gunpowder": 2,
+            "Dye (Gray)": 1,
+            "Paper": 1
+        }
+    },
+    "Wool (Dark Green)": {
+        "Buy Price": 143.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Wool (White)": 1,
+            "Cactus": 1,
+            "Coal": 1
+        }
+    },
+    "Diamond Leggings": {
+        "Buy Price": 19600.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 7
+        }
+    },
+    "Diamond Boots": {
+        "Buy Price": 11200.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 4
+        }
+    },
+    "Wool (Gray)": {
+        "Buy Price": 104.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Wool (White)": 1,
+            "Dye (Gray)": 1
+        }
+    },
+    "Cobblestone Stairs": {
+        "Buy Price": 7.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1.5
+        }
+    },
+    "Fire Charge": {
+        "Buy Price": 145.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Blaze Powder": 1,
+            "Coal": 1,
+            "Gunpowder": 1
+        }
+    },
+    "Redstone Torch": {
+        "Buy Price": 49.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 1,
+            "Oak Log": 1
+        }
+    },
+    "Stone Axe": {
+        "Buy Price": 24.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 3,
+            "Oak Log": 1
+        }
+    },
+    "Clay Brick": {
+        "Buy Price": 165.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Clay": 1,
+            "Coal": 1
+        }
+    },
+    "Paintings": {
+        "Buy Price": 59.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Wool (White)": 1
+        }
+    },
+    "Diamond Chestplate": {
+        "Buy Price": 22400.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 8
+        }
+    },
+    "Fence": {
+        "Buy Price": 19.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Enchantment Table": {
+        "Buy Price": 7109.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Sugar Cane": 3,
+            "Leather": 1,
+            "Diamond": 2,
+            "Obsidian": 4
+        }
+    },
+    "Pressure Plate (Stone)": {
+        "Buy Price": 16.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Stone": 2
+        }
+    },
+    "Book": {
+        "Buy Price": 309.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Sugar Cane": 3,
+            "Leather": 1
+        }
+    },
+    "End Crystal": {
+        "Buy Price": 1735.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Sand": 1,
+            "Coal": 1,
+            "Ender Pearl": 1,
+            "Blaze Powder": 1,
+            "Ghast Tear": 1
+        }
+    },
+    "Bed": {
+        "Buy Price": 59.5,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4,
+            "Oak Log": 1
+        }
+    },
+    "Dye (Cactus Green)": {
+        "Buy Price": 93.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Cactus": 1,
+            "Coal": 1
+        }
+    },
+    "Banner": {
+        "Buy Price": 59.5,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4,
+            "Oak Log": 1
+        }
+    },
+    "Hay Bale": {
+        "Buy Price": 534.6,
+        "Crafting": true,
+        "Ingredients": {
+            "Wheat": 9
+        }
+    },
+    "Glass Bottle": {
+        "Buy Price": 1200.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Glass": 3
+        }
+    },
+    "Redstone Block": {
+        "Buy Price": 360.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 9
+        }
+    },
+    "Diamond Axe": {
+        "Buy Price": 8409.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 3,
+            "Oak Log": 1
+        }
+    },
+    "Wool (Light Gray)": {
+        "Buy Price": 104.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Wool (White)": 1,
+            "Ink Sac": 1,
+            "Bone": 1
+        }
+    },
+    "Torch": {
+        "Buy Price": 24.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Coal": 1,
+            "Oak Log": 1
+        }
+    },
+    "Carrot on a Stick": {
+        "Buy Price": 126.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "String": 2,
+            "Carrot": 1
+        }
+    },
+    "Stone Slab": {
+        "Buy Price": 4.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Stone": 0.5
+        }
+    },
+    "Wooden Shovel": {
+        "Buy Price": 19.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Wooden Plank": 1,
+            "Oak Log": 1
+        }
+    },
+    "Dye (Light Gray)": {
+        "Buy Price": 54.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Ink Sac": 1,
+            "Bone": 1
+        }
+    },
+    "Diamond Pickaxe": {
+        "Buy Price": 8409.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 3,
+            "Oak Log": 1
+        }
+    },
+    "Ladder": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Nether Wart Block": {
+        "Buy Price": 1350.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Nether Wart": 9
+        }
+    },
+    "Furnace": {
+        "Buy Price": 40.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 8
+        }
+    },
+    "Coal Block": {
+        "Buy Price": 135.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Coal": 9
+        }
+    },
+    "Nether Brick Fence": {
+        "Buy Price": 25.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Netherrack": 1,
+            "Coal": 1
+        }
+    },
+    "Purpur Stairs": {
+        "Buy Price": 1200.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Purpur Block": 6
+        }
+    },
+    "Emerald Block": {
+        "Buy Price": 37800.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Emerald": 9
+        }
+    },
+    "Lead": {
+        "Buy Price": 100.0,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4,
+            "Slimeball": 1
+        }
+    },
+    "Stone Sword": {
+        "Buy Price": 19.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Oak Log": 1
+        }
+    },
+    "Sign": {
+        "Buy Price": 19.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Item Frame": {
+        "Buy Price": 84.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Leather": 1
+        }
+    },
+    "Eye of Ender": {
+        "Buy Price": 120.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Ender Pearl": 1,
+            "Blaze Powder": 1
+        }
+    },
+    "Fishing Rod": {
+        "Buy Price": 34.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "String": 2
+        }
+    },
+    "Wool (Brown)": {
+        "Buy Price": 175.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Wool (White)": 1,
+            "Cocoa Beans": 1
+        }
+    },
+    "Leather Boots": {
+        "Buy Price": 300.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Leather": 4
+        }
+    },
+    "Stone Shovel": {
+        "Buy Price": 14.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Oak Log": 1
+        }
+    },
+    "Wooden Pickaxe": {
+        "Buy Price": 19.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Nether Brick (Red)": {
+        "Buy Price": 325.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Nether Wart": 2,
+            "Netherrack": 1,
+            "Coal": 1
+        }
+    },
+    "Leather Helmet": {
+        "Buy Price": 375.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Leather": 5
+        }
+    },
+    "Concrete Powder": {
+        "Buy Price": 6804.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Bone Meal": 1,
+            "Sand": 4,
+            "Gravel": 4
+        }
+    },
+    "Clay Block": {
+        "Buy Price": 600.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Clay": 4
+        }
+    },
+    "Diamond Hoe": {
+        "Buy Price": 5609.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 2,
+            "Oak Log": 1
+        }
+    },
+    "Wool (Black)": {
+        "Buy Price": 100.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Wool (White)": 1,
+            "Ink Sac": 1
+        }
+    },
+    "Diamond Sword": {
+        "Buy Price": 5609.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 2,
+            "Oak Log": 1
+        }
+    },
+    "Pressure Plate (Wooden)": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Diamond Shovel": {
+        "Buy Price": 2809.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 1,
+            "Oak Log": 1
+        }
+    },
+    "Note Block": {
+        "Buy Price": 49.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Terracotta (Glazed)": {
+        "Buy Price": 634.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Terracotta (Stained)": 1,
+            "Coal": 1
+        }
+    },
+    "Stick": {
+        "Buy Price": 9.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Dirt (Coarse)": {
+        "Buy Price": 2000.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Dirt": 2,
+            "Gravel": 2
+        }
+    },
+    "Armor Stand": {
+        "Buy Price": 13.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Stone Slab": 1
+        }
+    },
+    "Diamond Helmet": {
+        "Buy Price": 14000.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Diamond": 5
+        }
+    },
+    "Wool (Light Green)": {
+        "Buy Price": 147.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Wool (White)": 1,
+            "Dye (Cactus Green)": 1,
+            "Bone Meal": 1
+        }
+    },
+    "Firework Star": {
+        "Buy Price": 134.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Gunpowder": 1,
+            "Dye (Gray)": 1
+        }
+    },
+    "Potato (Baked)": {
+        "Buy Price": 107.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Potato": 1,
+            "Coal": 1
+        }
+    },
+    "Brick Block": {
+        "Buy Price": 165.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Clay": 1,
+            "Coal": 1
+        }
+    },
+    "Charcoal": {
+        "Buy Price": 24.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Coal": 1
+        }
+    },
+    "Dye (Lime)": {
+        "Buy Price": 97.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Dye (Cactus Green)": 1,
+            "Bone Meal": 1
+        }
+    },
+    "Stone Stairs": {
+        "Buy Price": 20.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Stone Pickaxe": {
+        "Buy Price": 24.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 3,
+            "Oak Log": 1
+        }
+    },
+    "Brick Stairs": {
+        "Buy Price": 165.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Clay": 1,
+            "Coal": 1
+        }
+    },
+    "Flower Pot": {
+        "Buy Price": 165.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Clay": 1,
+            "Coal": 1
+        }
+    },
+    "TNT": {
+        "Buy Price": 6400.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Gunpowder": 5,
+            "Sand": 4
+        }
+    },
+    "Glass Pane": {
+        "Buy Price": 1515.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Sand": 1,
+            "Coal": 1
+        }
+    },
+    "Bone Block": {
+        "Buy Price": 4.7,
+        "Crafting": true,
+        "Ingredients": {
+            "Bone": 1
+        }
+    }
+}
