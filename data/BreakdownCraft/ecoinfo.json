@@ -1,0 +1,326 @@
+{
+    "Diamond": {
+        "Buy Price": 400.0,
+        "Sell Price": 45.0
+    },
+    "Redstone Dust": {
+        "Buy Price": 22.22,
+        "Sell Price": 1.389
+    },
+    "Gold": {
+        "Buy Price": 150.0,
+        "Sell Price": 15.0
+    },
+    "Nether Quartz": {
+        "Buy Price": 20.83,
+        "Sell Price": null
+    },
+    "Coal": {
+        "Buy Price": 12.5,
+        "Sell Price": 7.031
+    },
+    "Iron Ingot": {
+        "Buy Price": 100.0,
+        "Sell Price": 10.0
+    },
+    "Lapis Lazuli": {
+        "Buy Price": 46.88,
+        "Sell Price": 4.688
+    },
+    "Emerald": {
+        "Buy Price": 1200.0,
+        "Sell Price": 60.0
+    },
+    "Hopper": {
+        "Buy Price": 15000.0,
+        "Sell Price": null
+    },
+    "Slimeball": {
+        "Buy Price": 200.0,
+        "Sell Price": 25.0
+    },
+    "Cobblestone": {
+        "Buy Price": 11.72,
+        "Sell Price": 1.563
+    },
+    "Oak Log": {
+        "Buy Price": 23.44,
+        "Sell Price": 2.188
+    },
+    "Stone": {
+        "Buy Price": 11.72,
+        "Sell Price": 1.563
+    },
+    "Granite": {
+        "Buy Price": 11.72,
+        "Sell Price": 1.563
+    },
+    "Diorite": {
+        "Buy Price": 11.72,
+        "Sell Price": 1.563
+    },
+    "Andesite": {
+        "Buy Price": 11.72,
+        "Sell Price": 1.563
+    },
+    "Dirt": {
+        "Buy Price": 6.25,
+        "Sell Price": 0.703
+    },
+    "Grass Block": {
+        "Buy Price": 10.94,
+        "Sell Price": 0.781
+    },
+    "Gravel": {
+        "Buy Price": 15.63,
+        "Sell Price": null
+    },
+    "Sand": {
+        "Buy Price": 15.63,
+        "Sell Price": null
+    },
+    "Sandstone": {
+        "Buy Price": 20.31,
+        "Sell Price": null
+    },
+    "Red Sand": {
+        "Buy Price": 15.63,
+        "Sell Price": null
+    },
+    "Red Sandstone": {
+        "Buy Price": 20.31,
+        "Sell Price": null
+    },
+    "Clay": {
+        "Buy Price": 18.75,
+        "Sell Price": null
+    },
+    "Bricks": {
+        "Buy Price": 31.25,
+        "Sell Price": null
+    },
+    "Prismarine": {
+        "Buy Price": 23.44,
+        "Sell Price": null
+    },
+    "Sea Lantern": {
+        "Buy Price": 62.5,
+        "Sell Price": null
+    },
+    "Block of Quartz": {
+        "Buy Price": 20.83,
+        "Sell Price": null
+    },
+    "Obsidian": {
+        "Buy Price": 62.5,
+        "Sell Price": 31.25
+    },
+    "Mossy Cobblestone": {
+        "Buy Price": 31.25,
+        "Sell Price": 7.813
+    },
+    "Ice": {
+        "Buy Price": 101.56,
+        "Sell Price": null
+    },
+    "Packed Ice": {
+        "Buy Price": 78.13,
+        "Sell Price": null
+    },
+    "Sponge": {
+        "Buy Price": 312.5,
+        "Sell Price": null
+    },
+    "Snow Block": {
+        "Buy Price": 15.63,
+        "Sell Price": null
+    },
+    "Lava Bucket": {
+        "Buy Price": 750.0,
+        "Sell Price": null
+    },
+    "Wither Skeleton Skull": {
+        "Buy Price": 85000.0,
+        "Sell Price": null
+    },
+    "Rotten Flesh": {
+        "Buy Price": 3.125,
+        "Sell Price": 1.09375
+    },
+    "Bone": {
+        "Buy Price": 6.25,
+        "Sell Price": 1.09375
+    },
+    "Gunpowder": {
+        "Buy Price": 25.0,
+        "Sell Price": 4.5
+    },
+    "String": {
+        "Buy Price": 8.4375,
+        "Sell Price": 1.25
+    },
+    "Ender Pearl": {
+        "Buy Price": 12.5,
+        "Sell Price": 8.75
+    },
+    "Blaze Rod": {
+        "Buy Price": 62.5,
+        "Sell Price": 7.0
+    },
+    "Magma Cream": {
+        "Buy Price": 200.0,
+        "Sell Price": null
+    },
+    "Ghast Tear": {
+        "Buy Price": 100.0,
+        "Sell Price": 43.75
+    },
+    "Leather": {
+        "Buy Price": 17.5,
+        "Sell Price": 2.5
+    },
+    "Rabbit Hide": {
+        "Buy Price": 25.0,
+        "Sell Price": 2.5
+    },
+    "Ink Sac": {
+        "Buy Price": 25.0,
+        "Sell Price": 4.375
+    },
+    "Feather": {
+        "Buy Price": 8.75,
+        "Sell Price": 1.25
+    },
+    "Gold Nugget": {
+        "Buy Price": 16.66666667,
+        "Sell Price": 1.444444444
+    },
+    "Spider Eye": {
+        "Buy Price": 18.75,
+        "Sell Price": 3.75
+    },
+    "Poppy": {
+        "Buy Price": 18.75,
+        "Sell Price": 1.5
+    },
+    "Rabbit's Foot": {
+        "Buy Price": 25.0,
+        "Sell Price": 2.5
+    },
+    "Arrow": {
+        "Buy Price": 45.83333333,
+        "Sell Price": 1.0
+    },
+    "Steak": {
+        "Buy Price": 15.625,
+        "Sell Price": 0.9375
+    },
+    "Chicken (Cooked)": {
+        "Buy Price": 15.625,
+        "Sell Price": 0.9375
+    },
+    "Prismarine Shard": {
+        "Buy Price": 12.5,
+        "Sell Price": null
+    },
+    "Porkchop (Cooked)": {
+        "Buy Price": 15.625,
+        "Sell Price": 0.9375
+    },
+    "Mutton (Cooked)": {
+        "Buy Price": 15.625,
+        "Sell Price": 0.9375
+    },
+    "Wheat Seeds": {
+        "Buy Price": 12.5,
+        "Sell Price": 1.0
+    },
+    "Pumpkin Seeds": {
+        "Buy Price": 12.5,
+        "Sell Price": 1.0
+    },
+    "Melon Seeds": {
+        "Buy Price": 12.5,
+        "Sell Price": 1.0
+    },
+    "Beetroot Seeds": {
+        "Buy Price": 6.25,
+        "Sell Price": 1.0
+    },
+    "Oak Sapling": {
+        "Buy Price": 150.0,
+        "Sell Price": 2.0
+    },
+    "Nether Wart": {
+        "Buy Price": 20.0,
+        "Sell Price": 2.375
+    },
+    "Carrot": {
+        "Buy Price": 20.0,
+        "Sell Price": 4.0
+    },
+    "Sugar Cane": {
+        "Buy Price": 20.0,
+        "Sell Price": 5.0
+    },
+    "Potato": {
+        "Buy Price": 20.0,
+        "Sell Price": 4.0
+    },
+    "Cactus": {
+        "Buy Price": 20.0,
+        "Sell Price": 5.0
+    },
+    "Carved Pumpkin": {
+        "Buy Price": 15.625,
+        "Sell Price": 3.0
+    },
+    "Wheat": {
+        "Buy Price": 20.0,
+        "Sell Price": 10.0
+    },
+    "Melon Slice": {
+        "Buy Price": 15.625,
+        "Sell Price": 0.9375
+    },
+    "Cocoa Beans": {
+        "Buy Price": 46.875,
+        "Sell Price": 2.875
+    },
+    "Beetroot": {
+        "Buy Price": 67.5,
+        "Sell Price": 10.0
+    },
+    "Apple": {
+        "Buy Price": 20.0,
+        "Sell Price": null
+    },
+    "Spruce Sapling": {
+        "Buy Price": 150.0,
+        "Sell Price": 2.0
+    },
+    "Birch Sapling": {
+        "Buy Price": 150.0,
+        "Sell Price": 2.0
+    },
+    "Jungle Sapling": {
+        "Buy Price": 150.0,
+        "Sell Price": 2.0
+    },
+    "Magma Block": {
+        "Buy Price": 23.4375,
+        "Sell Price": null
+    },
+    "Glowstone Block": {
+        "Buy Price": 12.5,
+        "Sell Price": 3.125
+    },
+    "Ender Chest": {
+        "Buy Price": 500.0,
+        "Sell Price": null
+    },
+    "Cobblestone Wall": {
+        "Buy Price": 156.25,
+        "Sell Price": null
+    }
+}

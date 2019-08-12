@@ -1,13 +1,26 @@
 import json
 
-# Evaulates farms
+### HYPERPARAMETERS ###
+server_name = 'BreakdownCraft'
 
-server_name = 'SkyblockOriginal'
 farm_names = ['0-tick Sugarcane (ilmango)',
               'Auto Sugarcane (GreenGuitarGuyGames)',
               'ilmango Simple Tree Farm (TNT Duper)',
               'Melon/Pumpkin Farm',
-              '1 level xsisumavoid cactus farm']
+              '1 level xsisumavoid cactus farm',
+              'toggleable 0 tick cactus farm',
+              'ilmango dispenserless mob farm',
+              'Automatic Cobble Farm ilmango (glitchless)',
+              'Automatic Cobble Farm ilmango (TNT duping)']
+remove_glitches = True
+
+##########################################################################
+glitches = ['0-tick Sugarcane (ilmango)',
+            'toggleable 0 tick cactus farm',
+            'ilmango Simple Tree Farm (TNT Duper)',
+            'Automatic Cobble Farm ilmango (TNT duping)']
+if remove_glitches:
+    farm_names = [x for x in farm_names if x not in glitches]
 
 with open('../data/_autofarms/autofarms.json', 'r') as f:
     autofarms = json.load(f)
@@ -63,7 +76,7 @@ def evaluateFarm(farm, purchase_optimal, sell_optimal):
             profit / (volume/1000),
             build_cost / profit)
 
-print('CAVEAT ON ALL RESULTS: THIS WILL BE MISLEADING')
+print('CAVEAT ON ALL RESULTS: THIS MAY BE MISLEADING')
 print('FOR ITEMS THAT PRODUCE MULTIPLE OUTPUTS IN CRAFTING TABLE')
 for fname in farm_names:
     print('----====[ ' + fname.upper() + ' ]====----')

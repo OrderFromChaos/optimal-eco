@@ -16,12 +16,11 @@ def convertCSV(server_name: str) -> None:
                 row = [row[0]] + [(float(x) if x != '' else None) for x in row[1:]]
                 outJSON[row[0]] = {
                     'Buy Price': row[1],
-                    'Sell Price': row[2],
-                    'Automation State': row[3]
+                    'Sell Price': row[2]
                 }
     with open(subfolder + 'ecoinfo.json', 'w') as f:
         json.dump(outJSON, f, indent=4)
 
 if __name__ == '__main__':
-    server_name = 'SkyblockOriginal'
+    server_name = 'SBHub'
     convertCSV(server_name)

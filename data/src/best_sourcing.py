@@ -10,7 +10,7 @@ import json
 # Check if item is in optimal_purchase. If so, return that
 # Otherwise, throw error
 
-server_name = 'SkyblockOriginal'
+server_name = 'SBHub'
 
 with open('../' + server_name + '/ecoinfo.json', 'r') as f:
     ecodata = json.load(f)

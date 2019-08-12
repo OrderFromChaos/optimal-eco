@@ -4,7 +4,7 @@ import json
 # this probably indicates some kind of misnaming
 # Note that this will also return everything that doesn't have a recipe...
 
-server_name = 'SkyblockOriginal'
+server_name = 'BreakdownCraft'
 
 with open('../' + server_name + '/ecoinfo.json', 'r') as f:
     economydata = json.load(f)
@@ -19,8 +19,11 @@ in_both = eco_set & recipe_set
 eco_unique = eco_set - recipe_set
 recipe_unique = recipe_set - eco_set
 
+print('In both:')
 print(in_both)
 print()
+print('Unique to economy (not craftable):')
 print(eco_unique)
 print()
+print('Unique to recipe list (should be most items)')
 print(recipe_unique)

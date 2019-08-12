@@ -114,6 +114,10 @@
         "Fishing Rod": 1,
         "Carrot": 1
     },
+    "Carved Pumpkin": {
+        "Pumpkin": 1,
+        "Iron": 0.0084
+    },
     "Cauldron": {
         "Iron Ingot": 7
     },
@@ -480,7 +484,7 @@
         "Leather": 1
     },
     "Jack-O-Lantern": {
-        "Pumpkin": 1,
+        "Carved Pumpkin": 1,
         "Torch": 1
     },
     "Jukebox": {
@@ -833,7 +837,7 @@
         "Stick": 1
     },
     "Trapdoor (Wooden)": {
-        "Wooden Plank": 6
+        "Wooden Plank": 3
     },
     "Trapdoor (Iron)": {
         "Iron Ingot": 4

@@ -108,5 +108,128 @@
         "Size": [10,4,10],
         "URL": "https://youtu.be/gEmfNspyvWk?t=576",
         "Additional Comments": "Everyone says this is the most efficient on skyblock..."
+    },
+    "toggleable 0 tick cactus farm": {
+        "Build Cost": {
+            "Piston (Sticky)": 4,
+            "Piston": 5,
+            "Trapdoor (Wooden)": 3,
+            "Observer": 1,
+            "Lever": 1,
+            "Redstone Dust": 14,
+            "Redstone Repeater": 2,
+            "Sand": 3
+        },
+        "Inputs": {},
+        "Outputs": {
+            "Cactus": 1560
+        },
+        "Size": [6, 7, 11],
+        "URL": "https://www.youtube.com/watch?v=B5C_Lrl8JDs",
+        "Additional Comments": "Let's see if we can one-up the others."
+    },
+    "ilmango dispenserless mob farm": {
+        "Build Cost": {
+            "Wooden Plank": 2940,
+            "Wooden Slab": 1152,
+            "Glass": 896,
+            "Piston (Sticky)": 16,
+            "Hopper": 2,
+            "Redstone Comparator": 3,
+            "Redstone Dust": 64,
+            "Redstone Block": 16,
+            "Trapdoor (Wooden)": 94,
+            "Note Block": 16,
+            "Lever": 1,
+            "Observer": 2,
+            "Magma Block": 496,
+            "Packed Ice": 12
+        },
+        "Inputs": {},
+        "Outputs": {
+            "Arrow": 4479.8,
+            "Chicken (Raw)": 1.1,
+            "String": 2999,
+            "Spider Eye": 12.5,
+            "Redstone Dust": 21,
+            "Glowstone Dust": 18.2,
+            "Stick": 33.6,
+            "Feather": 1.1,
+            "Bone": 4350,
+            "Rotten Flesh": 891.1,
+            "Gunpowder": 4328.6,
+            "Sugar": 21.6
+        },
+        "Size": [27, 91, 22],
+        "URL": "https://www.youtube.com/watch?v=Gg17wAr_IOI",
+        "Additional Comments": ""
+    },
+    "Automatic Cobble Farm ilmango (glitchless)": {
+        "Build Cost": {
+            "Cobblestone": 54,
+            "Lava Bucket": 72,
+            "Rail (Detector)": 2,
+            "Piston (Sticky)": 58,
+            "Piston": 95,
+            "Wooden Plank": 600,
+            "Stone Slab": 3,
+            "TNT": 1,
+            "Obsidian": 21,
+            "Redstone Dust": 114,
+            "Lever": 1,
+            "Iron Door": 3,
+            "Redstone Repeater": 94,
+            "Glass": 242,
+            "Redstone Lamp": 18,
+            "Redstone Comparator": 4,
+            "Hopper": 18,
+            "Dropper": 24,
+            "Slime Block": 9,
+            "Ice": 168,
+            "Observer": 80,
+            "Minecart": 1
+        },
+        "Inputs": {
+            "TNT": 1200
+        },
+        "Outputs": {
+            "Cobblestone": 162000
+        },
+        "Size": [20, 20, 20],
+        "URL": "https://www.youtube.com/watch?v=_MyeCVicEps",
+        "Additional Comments": ""
+    },
+    "Automatic Cobble Farm ilmango (TNT duping)": {
+        "Build Cost": {
+            "Cobblestone": 54,
+            "Lava Bucket": 72,
+            "Rail (Detector)": 2,
+            "Piston (Sticky)": 58,
+            "Piston": 95,
+            "Wooden Plank": 600,
+            "Stone Slab": 3,
+            "TNT": 1,
+            "Obsidian": 21,
+            "Redstone Dust": 114,
+            "Lever": 1,
+            "Iron Door": 3,
+            "Redstone Repeater": 94,
+            "Glass": 242,
+            "Redstone Lamp": 18,
+            "Redstone Comparator": 4,
+            "Hopper": 18,
+            "Dropper": 24,
+            "Slime Block": 9,
+            "Ice": 168,
+            "Observer": 80,
+            "Minecart": 1
+        },
+        "Inputs": {},
+        "Outputs": {
+            "Cobblestone": 162000
+        },
+        "Size": [20, 20, 20],
+        "URL": "https://www.youtube.com/watch?v=_MyeCVicEps",
+        "Additional Comments": ""
     }
 }
