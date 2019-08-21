@@ -1,0 +1,198 @@
+{
+    "Shulker Shell": {
+        "Buy Price": 6.0,
+        "Sell Price": null
+    },
+    "Chorus Fruit": {
+        "Buy Price": 0.0938,
+        "Sell Price": null
+    },
+    "End Stone": {
+        "Buy Price": 0.0313,
+        "Sell Price": null
+    },
+    "Cocoa Beans": {
+        "Buy Price": 0.0313,
+        "Sell Price": null
+    },
+    "Redstone Dust": {
+        "Buy Price": 0.0313,
+        "Sell Price": 0.0156
+    },
+    "Hopper": {
+        "Buy Price": 0.8,
+        "Sell Price": null
+    },
+    "Dispenser": {
+        "Buy Price": 1.3333,
+        "Sell Price": null
+    },
+    "Piston": {
+        "Buy Price": 0.6667,
+        "Sell Price": null
+    },
+    "Piston (Sticky)": {
+        "Buy Price": 1.0,
+        "Sell Price": null
+    },
+    "Redstone Comparator": {
+        "Buy Price": 1.5,
+        "Sell Price": null
+    },
+    "Slimeball": {
+        "Buy Price": 0.5556,
+        "Sell Price": null
+    },
+    "Daylight Detector": {
+        "Buy Price": 4.0,
+        "Sell Price": null
+    },
+    "Dropper": {
+        "Buy Price": 0.6667,
+        "Sell Price": null
+    },
+    "Observer": {
+        "Buy Price": 1.0,
+        "Sell Price": null
+    },
+    "Redstone Repeater": {
+        "Buy Price": 0.6667,
+        "Sell Price": null
+    },
+    "Cobblestone": {
+        "Buy Price": 0.0156,
+        "Sell Price": null
+    },
+    "Iron Ore": {
+        "Buy Price": null,
+        "Sell Price": 0.1406
+    },
+    "Gold Ore": {
+        "Buy Price": null,
+        "Sell Price": 0.2031
+    },
+    "Coal": {
+        "Buy Price": 0.0938,
+        "Sell Price": 0.0469
+    },
+    "Iron Ingot": {
+        "Buy Price": 0.1875,
+        "Sell Price": null
+    },
+    "Gold Ingot": {
+        "Buy Price": 0.375,
+        "Sell Price": null
+    },
+    "Wheat": {
+        "Buy Price": 0.0625,
+        "Sell Price": 0.0469
+    },
+    "Carrot": {
+        "Buy Price": 0.0625,
+        "Sell Price": 0.0469
+    },
+    "Potato": {
+        "Buy Price": 0.0625,
+        "Sell Price": 0.0469
+    },
+    "Beetroot": {
+        "Buy Price": 0.0938,
+        "Sell Price": 0.0781
+    },
+    "Melon Slice": {
+        "Buy Price": null,
+        "Sell Price": 0.0052
+    },
+    "Pumpkin": {
+        "Buy Price": null,
+        "Sell Price": 0.0313
+    },
+    "Sugar Cane": {
+        "Buy Price": 0.0625,
+        "Sell Price": null
+    },
+    "Pumpkin Seeds": {
+        "Buy Price": 0.0625,
+        "Sell Price": null
+    },
+    "Beetroot Seeds": {
+        "Buy Price": 0.125,
+        "Sell Price": null
+    },
+    "Oak Log": {
+        "Buy Price": 0.0781,
+        "Sell Price": 0.0417
+    },
+    "Porkchop (Cooked)": {
+        "Buy Price": null,
+        "Sell Price": 0.3125
+    },
+    "Chicken (Cooked)": {
+        "Buy Price": null,
+        "Sell Price": 0.1875
+    },
+    "Steak": {
+        "Buy Price": null,
+        "Sell Price": 0.3125
+    },
+    "Mutton (Cooked)": {
+        "Buy Price": null,
+        "Sell Price": 0.1875
+    },
+    "Leather": {
+        "Buy Price": 0.1875,
+        "Sell Price": 0.0625
+    },
+    "String": {
+        "Buy Price": 0.0625,
+        "Sell Price": null
+    },
+    "Bone": {
+        "Buy Price": 0.3333,
+        "Sell Price": null
+    },
+    "Gunpowder": {
+        "Buy Price": 0.125,
+        "Sell Price": null
+    },
+    "Salmon (Raw)": {
+        "Buy Price": 0.125,
+        "Sell Price": 0.0156
+    },
+    "Cod (Raw)": {
+        "Buy Price": 0.1875,
+        "Sell Price": 0.0313
+    },
+    "Pufferfish": {
+        "Buy Price": 0.3125,
+        "Sell Price": 0.0469
+    },
+    "Clownfish": {
+        "Buy Price": 0.25,
+        "Sell Price": 0.0625
+    },
+    "Arrow": {
+        "Buy Price": 0.0625,
+        "Sell Price": null
+    },
+    "Bow": {
+        "Buy Price": 1.0,
+        "Sell Price": null
+    },
+    "Lapis Lazuli": {
+        "Buy Price": 0.125,
+        "Sell Price": 0.0313
+    },
+    "Obsidian": {
+        "Buy Price": 0.125,
+        "Sell Price": null
+    },
+    "Book": {
+        "Buy Price": 0.3333,
+        "Sell Price": null
+    },
+    "Rotten Flesh": {
+        "Buy Price": null,
+        "Sell Price": 0.00781
+    }
+}

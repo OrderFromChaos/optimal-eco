@@ -1,0 +1,230 @@
+{
+    "Cactus": {
+        "Buy Price": null,
+        "Sell Price": 5.81
+    },
+    "Melon Slice": {
+        "Buy Price": null,
+        "Sell Price": 3.23
+    },
+    "Sugar Cane": {
+        "Buy Price": null,
+        "Sell Price": 6.83
+    },
+    "Wheat": {
+        "Buy Price": null,
+        "Sell Price": 19.29
+    },
+    "Beetroot": {
+        "Buy Price": null,
+        "Sell Price": 20.25
+    },
+    "Potato": {
+        "Buy Price": null,
+        "Sell Price": 10.08
+    },
+    "Carrot": {
+        "Buy Price": null,
+        "Sell Price": 10.08
+    },
+    "Nether Wart": {
+        "Buy Price": null,
+        "Sell Price": 9.14
+    },
+    "Iron Ingot": {
+        "Buy Price": 39.06,
+        "Sell Price": 4.7
+    },
+    "Coal": {
+        "Buy Price": 6.25,
+        "Sell Price": 3.1
+    },
+    "Gold Ingot": {
+        "Buy Price": null,
+        "Sell Price": 4.7
+    },
+    "Glowstone Dust": {
+        "Buy Price": 3.91,
+        "Sell Price": null
+    },
+    "Redstone Dust": {
+        "Buy Price": 46.88,
+        "Sell Price": 4.7
+    },
+    "Redstone Lamp": {
+        "Buy Price": 31.25,
+        "Sell Price": null
+    },
+    "Cocoa Beans": {
+        "Buy Price": null,
+        "Sell Price": 8.4
+    },
+    "Emerald": {
+        "Buy Price": null,
+        "Sell Price": 10.0
+    },
+    "Diamond": {
+        "Buy Price": null,
+        "Sell Price": 5.0
+    },
+    "Pumpkin": {
+        "Buy Price": null,
+        "Sell Price": 11.2
+    },
+    "Leather": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Steak": {
+        "Buy Price": null,
+        "Sell Price": 5.0
+    },
+    "Raw Beef": {
+        "Buy Price": null,
+        "Sell Price": 3.0
+    },
+    "Raw Chicken": {
+        "Buy Price": null,
+        "Sell Price": 3.0
+    },
+    "Cooked Chicken": {
+        "Buy Price": null,
+        "Sell Price": 5.0
+    },
+    "Raw Rabbit": {
+        "Buy Price": null,
+        "Sell Price": 3.0
+    },
+    "Cooked Rabbit": {
+        "Buy Price": null,
+        "Sell Price": 5.0
+    },
+    "Raw Mutton": {
+        "Buy Price": null,
+        "Sell Price": 3.0
+    },
+    "Cooked Mutton": {
+        "Buy Price": null,
+        "Sell Price": 5.0
+    },
+    "Wheat Seeds": {
+        "Buy Price": null,
+        "Sell Price": 0.5
+    },
+    "Raw Porkchop": {
+        "Buy Price": null,
+        "Sell Price": 3.0
+    },
+    "Cooked Porkchop": {
+        "Buy Price": null,
+        "Sell Price": 5.0
+    },
+    "Beetroot Seeds": {
+        "Buy Price": null,
+        "Sell Price": 0.5
+    },
+    "Lapis Lazuli": {
+        "Buy Price": null,
+        "Sell Price": 1.0
+    },
+    "Cookie": {
+        "Buy Price": null,
+        "Sell Price": 2.11
+    },
+    "Poisonous Potato": {
+        "Buy Price": null,
+        "Sell Price": 3.02
+    },
+    "Red Mushroom": {
+        "Buy Price": null,
+        "Sell Price": 0.97
+    },
+    "Brown Mushroom": {
+        "Buy Price": null,
+        "Sell Price": 0.97
+    },
+    "Gunpowder": {
+        "Buy Price": 5.0,
+        "Sell Price": 2.0
+    },
+    "Egg": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Blaze Rod": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Bone": {
+        "Buy Price": 93.75,
+        "Sell Price": null
+    },
+    "Slimeball": {
+        "Buy Price": 37.5,
+        "Sell Price": null
+    },
+    "Ghast Tear": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Spider Eye": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Magma Cream": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Blaze Powder": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Arrow": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Rabbit's Foot": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Rotten Flesh": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Chorus Fruit": {
+        "Buy Price": null,
+        "Sell Price": 0.48
+    },
+    "Ink Sac": {
+        "Buy Price": null,
+        "Sell Price": 2.0
+    },
+    "Oak Log": {
+        "Buy Price": 6.0,
+        "Sell Price": 2.0
+    },
+    "Oak Planks": {
+        "Buy Price": 1.5,
+        "Sell Price": null
+    },
+    "Nether Quartz": {
+        "Buy Price": 100.0,
+        "Sell Price": null
+    },
+    "Cobblestone": {
+        "Buy Price": 1.56,
+        "Sell Price": 0.25
+    },
+    "Sand": {
+        "Buy Price": 3.13,
+        "Sell Price": null
+    },
+    "Dirt": {
+        "Buy Price": 1.56,
+        "Sell Price": null
+    },
+    "Bone Meal": {
+        "Buy Price": 46.88,
+        "Sell Price": null
+    }
+}

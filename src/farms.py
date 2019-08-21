@@ -1,7 +1,7 @@
 import json
 
 ### HYPERPARAMETERS ###
-server_name = 'BreakdownCraft'
+server_name = 'Craftscade'
 
 farm_names = ['0-tick Sugarcane (ilmango)',
               'Auto Sugarcane (GreenGuitarGuyGames)',
@@ -11,7 +11,8 @@ farm_names = ['0-tick Sugarcane (ilmango)',
               'toggleable 0 tick cactus farm',
               'ilmango dispenserless mob farm',
               'Automatic Cobble Farm ilmango (glitchless)',
-              'Automatic Cobble Farm ilmango (TNT duping)']
+              'Automatic Cobble Farm ilmango (TNT duping)',
+              '1.14.3 Auto Carrot/Potato Farm']
 remove_glitches = True
 
 ##########################################################################
@@ -53,28 +54,33 @@ def evaluateFarm(farm, purchase_optimal, sell_optimal):
         if build_item in purchase_optimal:
             build_cost += getCost(build_item, quantity, purchase_optimal, sell_optimal)
         else:
-            print('Unable to find:', build_item)
+            print('Unable to find:', build_item, '(build cost)')
     
     for input_item, quantity in farm['Inputs'].items():
         if input_item in purchase_optimal:
             input_cost += getCost(input_item, quantity, purchase_optimal, sell_optimal)
         else:
-            print('Unable to find:', input_item)
+            print('Unable to find:', input_item, '(inputs)')
     
     for output_item, quantity in farm['Outputs'].items():
         if output_item in sell_optimal:
             output_profit += sell_optimal[output_item] * quantity
         else:
-            print('Unable to find:', output_item)
+            print('Unable to find:', output_item, '(outputs)')
     
     profit = output_profit - input_cost
     
+    if profit == 0:
+        hours_to_profit = -999
+    else:
+        hours_to_profit = build_cost / profit
+
     return (build_cost,
             input_cost,
             output_profit,
             profit,
             profit / (volume/1000),
-            build_cost / profit)
+            hours_to_profit)
 
 print('CAVEAT ON ALL RESULTS: THIS MAY BE MISLEADING')
 print('FOR ITEMS THAT PRODUCE MULTIPLE OUTPUTS IN CRAFTING TABLE')

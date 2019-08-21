@@ -10,7 +10,7 @@ import json
 # Check if item is in optimal_purchase. If so, return that
 # Otherwise, throw error
 
-server_name = 'SBHub'
+server_name = 'Craftscade'
 
 with open('../' + server_name + '/ecoinfo.json', 'r') as f:
     ecodata = json.load(f)
@@ -84,14 +84,14 @@ def allIngredientsPurchaseable(recipe, recipedata, purchaseable): # recipe: dict
 # 1. Is said ingredient also something that has a recipe? (Continue bit)
 # 2. Is said ingredient purchaseable? (Halting bit)
 
-# Testing (False, False)
-print(allIngredientsPurchaseable(recipedata['Clay Block'], recipedata, ecodata))
-# Testing (True, False)
-print(allIngredientsPurchaseable(recipedata['Daylight Sensor'], recipedata, ecodata))
-# Testing (False, True)
-print(allIngredientsPurchaseable(recipedata['Diamond Block'], recipedata, ecodata))
-# Testing (True, True)
-print(allIngredientsPurchaseable(recipedata['Cookie'], recipedata, ecodata))
+# # Testing (False, False)
+# print(allIngredientsPurchaseable(recipedata['Clay Block'], recipedata, ecodata))
+# # Testing (True, False)
+# print(allIngredientsPurchaseable(recipedata['Daylight Sensor'], recipedata, ecodata))
+# # Testing (False, True)
+# print(allIngredientsPurchaseable(recipedata['Diamond Block'], recipedata, ecodata))
+# # Testing (True, True)
+# print(allIngredientsPurchaseable(recipedata['Cookie'], recipedata, ecodata))
 
 purchaseable = {name:eco for name,eco in ecodata.items() if eco['Buy Price'] is not None}
 

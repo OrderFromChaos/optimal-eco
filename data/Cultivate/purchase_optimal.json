@@ -1,0 +1,875 @@
+{
+    "Iron Ingot": {
+        "Buy Price": 39.06,
+        "Crafting": false,
+        "Ingredients": {
+            "Iron Ingot": 1
+        }
+    },
+    "Coal": {
+        "Buy Price": 6.25,
+        "Crafting": false,
+        "Ingredients": {
+            "Coal": 1
+        }
+    },
+    "Glowstone Dust": {
+        "Buy Price": 3.91,
+        "Crafting": false,
+        "Ingredients": {
+            "Glowstone Dust": 1
+        }
+    },
+    "Redstone Dust": {
+        "Buy Price": 46.88,
+        "Crafting": false,
+        "Ingredients": {
+            "Redstone Dust": 1
+        }
+    },
+    "Redstone Lamp": {
+        "Buy Price": 31.25,
+        "Crafting": false,
+        "Ingredients": {
+            "Redstone Lamp": 1
+        }
+    },
+    "Gunpowder": {
+        "Buy Price": 5.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Gunpowder": 1
+        }
+    },
+    "Bone": {
+        "Buy Price": 93.75,
+        "Crafting": false,
+        "Ingredients": {
+            "Bone": 1
+        }
+    },
+    "Slimeball": {
+        "Buy Price": 37.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Slimeball": 1
+        }
+    },
+    "Oak Log": {
+        "Buy Price": 6.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Oak Planks": {
+        "Buy Price": 1.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Oak Planks": 1
+        }
+    },
+    "Nether Quartz": {
+        "Buy Price": 100.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Nether Quartz": 1
+        }
+    },
+    "Cobblestone": {
+        "Buy Price": 1.56,
+        "Crafting": false,
+        "Ingredients": {
+            "Cobblestone": 1
+        }
+    },
+    "Sand": {
+        "Buy Price": 3.13,
+        "Crafting": false,
+        "Ingredients": {
+            "Sand": 1
+        }
+    },
+    "Dirt": {
+        "Buy Price": 1.56,
+        "Crafting": false,
+        "Ingredients": {
+            "Dirt": 1
+        }
+    },
+    "Bone Meal": {
+        "Buy Price": 46.88,
+        "Crafting": false,
+        "Ingredients": {
+            "Bone Meal": 1
+        }
+    },
+    "Glass": {
+        "Buy Price": 9.379999999999999,
+        "Crafting": true,
+        "Ingredients": {
+            "Sand": 1,
+            "Coal": 1
+        }
+    },
+    "Tripwire Hook": {
+        "Buy Price": 51.06,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 1,
+            "Oak Log": 2
+        }
+    },
+    "Bowl": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Pressure Plate (Wooden)": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Glass Bottle": {
+        "Buy Price": 9.379999999999999,
+        "Crafting": true,
+        "Ingredients": {
+            "Sand": 1,
+            "Coal": 1
+        }
+    },
+    "Ladder": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Iron Bars": {
+        "Buy Price": 234.36,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6
+        }
+    },
+    "Redstone Block": {
+        "Buy Price": 421.92,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 9
+        }
+    },
+    "Iron Axe": {
+        "Buy Price": 123.18,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 3,
+            "Oak Log": 1
+        }
+    },
+    "Trapdoor (Wooden)": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Glass Pane": {
+        "Buy Price": 9.379999999999999,
+        "Crafting": true,
+        "Ingredients": {
+            "Sand": 1,
+            "Coal": 1
+        }
+    },
+    "Crafting Table": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Lever": {
+        "Buy Price": 7.5600000000000005,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Cobblestone": 1
+        }
+    },
+    "Redstone Torch": {
+        "Buy Price": 52.88,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 1,
+            "Oak Log": 1
+        }
+    },
+    "Wooden Pickaxe": {
+        "Buy Price": 12.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Armor Stand": {
+        "Buy Price": 13.81,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Granite": {
+        "Buy Price": 303.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Nether Quartz": 3
+        }
+    },
+    "Quartz Block (Chiseled)": {
+        "Buy Price": 400.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Nether Quartz": 4
+        }
+    },
+    "Diorite (Polished)": {
+        "Buy Price": 203.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Nether Quartz": 2
+        }
+    },
+    "Piston (Sticky)": {
+        "Buy Price": 135.68,
+        "Crafting": true,
+        "Ingredients": {
+            "Slimeball": 1,
+            "Oak Log": 1,
+            "Cobblestone": 4,
+            "Iron Ingot": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Shield": {
+        "Buy Price": 45.06,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Iron Ingot": 1
+        }
+    },
+    "Wooden Hoe": {
+        "Buy Price": 12.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Stone Stairs": {
+        "Buy Price": 7.8100000000000005,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Iron Door": {
+        "Buy Price": 234.36,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6
+        }
+    },
+    "TNT": {
+        "Buy Price": 37.519999999999996,
+        "Crafting": true,
+        "Ingredients": {
+            "Gunpowder": 5,
+            "Sand": 4
+        }
+    },
+    "Minecart (with Furnace)": {
+        "Buy Price": 207.78,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 8,
+            "Iron Ingot": 5
+        }
+    },
+    "Sign": {
+        "Buy Price": 12.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Stone": {
+        "Buy Price": 7.8100000000000005,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Cobblestone Slab": {
+        "Buy Price": 0.78,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 0.5
+        }
+    },
+    "Torch": {
+        "Buy Price": 12.25,
+        "Crafting": true,
+        "Ingredients": {
+            "Coal": 1,
+            "Oak Log": 1
+        }
+    },
+    "Wooden Plank": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Chest": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Iron Leggings": {
+        "Buy Price": 273.42,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 7
+        }
+    },
+    "Hopper": {
+        "Buy Price": 201.3,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 5,
+            "Chest": 1
+        }
+    },
+    "Charcoal": {
+        "Buy Price": 12.25,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Coal": 1
+        }
+    },
+    "Coal Block": {
+        "Buy Price": 56.25,
+        "Crafting": true,
+        "Ingredients": {
+            "Coal": 9
+        }
+    },
+    "Quartz Slab": {
+        "Buy Price": 400.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Nether Quartz": 4
+        }
+    },
+    "Iron Boots": {
+        "Buy Price": 156.24,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 4
+        }
+    },
+    "Bone Block": {
+        "Buy Price": 93.75,
+        "Crafting": true,
+        "Ingredients": {
+            "Bone": 1
+        }
+    },
+    "Sandstone": {
+        "Buy Price": 12.52,
+        "Crafting": true,
+        "Ingredients": {
+            "Sand": 4
+        }
+    },
+    "Wooden Stairs": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Furnace": {
+        "Buy Price": 12.48,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 8
+        }
+    },
+    "Quartz Block (Pillar)": {
+        "Buy Price": 400.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Nether Quartz": 4
+        }
+    },
+    "Iron Chestplate": {
+        "Buy Price": 312.48,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 8
+        }
+    },
+    "Redstone Comparator": {
+        "Buy Price": 160.69,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 1,
+            "Oak Log": 1,
+            "Nether Quartz": 1,
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Redstone Repeater": {
+        "Buy Price": 107.57000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 2,
+            "Oak Log": 1,
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Granite (Polished)": {
+        "Buy Price": 303.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Nether Quartz": 3
+        }
+    },
+    "Stone Hoe": {
+        "Buy Price": 9.120000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Oak Log": 1
+        }
+    },
+    "Wooden Axe": {
+        "Buy Price": 12.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Anvil": {
+        "Buy Price": 507.78000000000003,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 13
+        }
+    },
+    "Trapdoor (Iron)": {
+        "Buy Price": 156.24,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 4
+        }
+    },
+    "Andesite": {
+        "Buy Price": 204.68,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 3,
+            "Nether Quartz": 2
+        }
+    },
+    "Minecart (with TNT)": {
+        "Buy Price": 232.82,
+        "Crafting": true,
+        "Ingredients": {
+            "TNT": 1,
+            "Iron Ingot": 5
+        }
+    },
+    "Fence Gate": {
+        "Buy Price": 12.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Iron Shovel": {
+        "Buy Price": 45.06,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 1,
+            "Oak Log": 1
+        }
+    },
+    "Stone Axe": {
+        "Buy Price": 10.68,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 3,
+            "Oak Log": 1
+        }
+    },
+    "Rail": {
+        "Buy Price": 240.36,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6,
+            "Oak Log": 1
+        }
+    },
+    "Cauldron": {
+        "Buy Price": 273.42,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 7
+        }
+    },
+    "Chest (Trapped)": {
+        "Buy Price": 57.06,
+        "Crafting": true,
+        "Ingredients": {
+            "Tripwire Hook": 1,
+            "Chest": 1
+        }
+    },
+    "Stick": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Minecart (with Chest)": {
+        "Buy Price": 201.3,
+        "Crafting": true,
+        "Ingredients": {
+            "Chest": 1,
+            "Iron Ingot": 5
+        }
+    },
+    "Stone Shovel": {
+        "Buy Price": 7.5600000000000005,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Oak Log": 1
+        }
+    },
+    "Diorite": {
+        "Buy Price": 203.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Nether Quartz": 2
+        }
+    },
+    "Wooden Slab": {
+        "Buy Price": 3.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Wooden Plank": 0.5
+        }
+    },
+    "Rail (Activator)": {
+        "Buy Price": 293.24,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6,
+            "Oak Log": 1,
+            "Redstone Torch": 1
+        }
+    },
+    "Iron Hoe": {
+        "Buy Price": 84.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 2,
+            "Oak Log": 1
+        }
+    },
+    "Bucket": {
+        "Buy Price": 117.18,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 3
+        }
+    },
+    "Iron Block": {
+        "Buy Price": 351.54,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 9
+        }
+    },
+    "Iron Helmet": {
+        "Buy Price": 195.3,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 5
+        }
+    },
+    "Minecart (with Hopper)": {
+        "Buy Price": 396.6,
+        "Crafting": true,
+        "Ingredients": {
+            "Hopper": 1,
+            "Iron Ingot": 5
+        }
+    },
+    "Compass": {
+        "Buy Price": 203.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 4,
+            "Redstone Dust": 1
+        }
+    },
+    "Quartz Stairs": {
+        "Buy Price": 400.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Nether Quartz": 4
+        }
+    },
+    "Fence": {
+        "Buy Price": 12.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Pressure Plate (Stone)": {
+        "Buy Price": 7.8100000000000005,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Stone Brick": {
+        "Buy Price": 7.8100000000000005,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Quartz Block": {
+        "Buy Price": 400.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Nether Quartz": 4
+        }
+    },
+    "Cobblestone Stairs": {
+        "Buy Price": 2.34,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1.5
+        }
+    },
+    "Wooden Sword": {
+        "Buy Price": 12.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Stick": 1
+        }
+    },
+    "Glowstone": {
+        "Buy Price": 15.64,
+        "Crafting": true,
+        "Ingredients": {
+            "Glowstone Dust": 4
+        }
+    },
+    "Boat": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Piston": {
+        "Buy Price": 98.18,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Cobblestone": 4,
+            "Iron Ingot": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Slime Block": {
+        "Buy Price": 337.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Slimeball": 9
+        }
+    },
+    "Stone Slab": {
+        "Buy Price": 3.9050000000000002,
+        "Crafting": true,
+        "Ingredients": {
+            "Stone": 0.5
+        }
+    },
+    "Iron Pickaxe": {
+        "Buy Price": 123.18,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 3,
+            "Oak Log": 1
+        }
+    },
+    "Shears": {
+        "Buy Price": 78.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 2
+        }
+    },
+    "Stone Sword": {
+        "Buy Price": 9.120000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Stick": 1
+        }
+    },
+    "Observer": {
+        "Buy Price": 203.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 6,
+            "Redstone Dust": 2,
+            "Nether Quartz": 1
+        }
+    },
+    "Minecart": {
+        "Buy Price": 195.3,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 5
+        }
+    },
+    "Iron Sword": {
+        "Buy Price": 84.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 2,
+            "Stick": 1
+        }
+    },
+    "Wooden Door": {
+        "Buy Price": 6.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Note Block": {
+        "Buy Price": 52.88,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Cobblestone Wall": {
+        "Buy Price": 9.36,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 6
+        }
+    },
+    "Wooden Shovel": {
+        "Buy Price": 12.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Wooden Plank": 1,
+            "Oak Log": 1
+        }
+    },
+    "Stone Pickaxe": {
+        "Buy Price": 10.68,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 3,
+            "Oak Log": 1
+        }
+    },
+    "Pressure Plate (Weighted Iron)": {
+        "Buy Price": 78.12,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 2
+        }
+    },
+    "Stone Button": {
+        "Buy Price": 7.8100000000000005,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Andesite (Polished)": {
+        "Buy Price": 204.68,
+        "Crafting": true,
+        "Ingredients": {
+            "Diorite": 1,
+            "Cobblestone": 1
+        }
+    },
+    "Rail (Detector)": {
+        "Buy Price": 289.05,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6,
+            "Pressure Plate (Stone)": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Dropper": {
+        "Buy Price": 57.800000000000004,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 7,
+            "Redstone Dust": 1
+        }
+    },
+    "Daylight Sensor": {
+        "Buy Price": 312.38,
+        "Crafting": true,
+        "Ingredients": {
+            "Sand": 1,
+            "Coal": 1,
+            "Nether Quartz": 3,
+            "Wooden Plank": 0.5
+        }
+    }
+}

@@ -178,6 +178,10 @@
         "Iron Ingot": 4,
         "Redstone Dust": 1
     },
+    "Composter": {
+        "Fence": 4,
+        "Wooden Plank": 3
+    },
     "Concrete Powder": {
         "Bone Meal": 1,
         "Sand": 4,

@@ -7,12 +7,12 @@
             "Note Block": 40,
             "Wooden Plank": 40,
             "Dirt": 80,
-            "Jack-O-Lantern": 1
+            "Glowstone": 1
         },
         "Inputs": {},
         "Outputs": {
-            "Melon": 57,
-            "Carved Pumpkin": 124
+            "Melon Slice": 513,
+            "Pumpkin": 124
         },
         "Size": [9,5,9],
         "URL": "https://www.youtube.com/watch?v=z3Y_cljLdj8",
@@ -103,7 +103,7 @@
         },
         "Inputs": {},
         "Outputs": {
-            "Cactus": 514
+            "Cactus": 73
         },
         "Size": [10,4,10],
         "URL": "https://youtu.be/gEmfNspyvWk?t=576",
@@ -230,6 +230,54 @@
         },
         "Size": [20, 20, 20],
         "URL": "https://www.youtube.com/watch?v=_MyeCVicEps",
+        "Additional Comments": ""
+    },
+    "1.14.3 Auto Carrot/Potato Farm": {
+        "Build Cost": {
+            "Carrot": 0,
+            "Wooden Plank": 278,
+            "Minecart (with Hopper)": 2,
+            "Trapdoor (Wooden)": 28,
+            "Hopper": 1,
+            "Dirt": 700,
+            "Glowstone": 20,
+            "Bell": 4,
+            "Composter": 4,
+            "Villager": 5,
+            "Glass": 17
+        },
+        "Inputs": {},
+        "Outputs": {
+            "Carrot": 1400
+        },
+        "Size": [40,40, 3],
+        "URL": "",
+        "Additional Comments": ""
+    },
+    "1.8 cobblestone wither farm ilmango": {
+        "Build Cost": {
+            "Boat": 13,
+            "Piston": 8,
+            "Piston (Sticky)": 1,
+            "Redstone Dust": 213,
+            "Redstone Repeater": 59,
+            "Slime Block": 20,
+            "Minecart (with Hopper)": 7,
+            "Fence": 3,
+            "Fence Gate": 4,
+            "Lever": 1,
+            "Cobblestone Wall": 2,
+            "Coral Fan": 1,
+            "Rail (Detector)": 1
+        },
+        "Inputs": {
+            "Snowball": 3600
+        },
+        "Outputs": {
+            "Cobblestone": 55000
+        },
+        "Size": [40,40, 3],
+        "URL": "https://www.youtube.com/watch?v=rUXoc78mpbM",
         "Additional Comments": ""
     }
 }

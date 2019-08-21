@@ -1,0 +1,1212 @@
+{
+    "Shulker Shell": {
+        "Buy Price": 6.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Shulker Shell": 1
+        }
+    },
+    "Chorus Fruit": {
+        "Buy Price": 0.0938,
+        "Crafting": false,
+        "Ingredients": {
+            "Chorus Fruit": 1
+        }
+    },
+    "End Stone": {
+        "Buy Price": 0.0313,
+        "Crafting": false,
+        "Ingredients": {
+            "End Stone": 1
+        }
+    },
+    "Cocoa Beans": {
+        "Buy Price": 0.0313,
+        "Crafting": false,
+        "Ingredients": {
+            "Cocoa Beans": 1
+        }
+    },
+    "Redstone Dust": {
+        "Buy Price": 0.0313,
+        "Crafting": false,
+        "Ingredients": {
+            "Redstone Dust": 1
+        }
+    },
+    "Hopper": {
+        "Buy Price": 0.8,
+        "Crafting": false,
+        "Ingredients": {
+            "Hopper": 1
+        }
+    },
+    "Dispenser": {
+        "Buy Price": 0.4061,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 7,
+            "String": 3,
+            "Oak Log": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Piston": {
+        "Buy Price": 0.3593,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Cobblestone": 4,
+            "Iron Ingot": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Piston (Sticky)": {
+        "Buy Price": 0.9149,
+        "Crafting": true,
+        "Ingredients": {
+            "Slimeball": 1,
+            "Oak Log": 1,
+            "Cobblestone": 4,
+            "Iron Ingot": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Redstone Comparator": {
+        "Buy Price": 1.5,
+        "Crafting": false,
+        "Ingredients": {
+            "Redstone Comparator": 1
+        }
+    },
+    "Slimeball": {
+        "Buy Price": 0.5556,
+        "Crafting": false,
+        "Ingredients": {
+            "Slimeball": 1
+        }
+    },
+    "Daylight Detector": {
+        "Buy Price": 4.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Daylight Detector": 1
+        }
+    },
+    "Dropper": {
+        "Buy Price": 0.14049999999999999,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 7,
+            "Redstone Dust": 1
+        }
+    },
+    "Observer": {
+        "Buy Price": 1.0,
+        "Crafting": false,
+        "Ingredients": {
+            "Observer": 1
+        }
+    },
+    "Redstone Repeater": {
+        "Buy Price": 0.2501,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 2,
+            "Oak Log": 1,
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Cobblestone": {
+        "Buy Price": 0.0156,
+        "Crafting": false,
+        "Ingredients": {
+            "Cobblestone": 1
+        }
+    },
+    "Coal": {
+        "Buy Price": 0.0938,
+        "Crafting": false,
+        "Ingredients": {
+            "Coal": 1
+        }
+    },
+    "Iron Ingot": {
+        "Buy Price": 0.1875,
+        "Crafting": false,
+        "Ingredients": {
+            "Iron Ingot": 1
+        }
+    },
+    "Gold Ingot": {
+        "Buy Price": 0.375,
+        "Crafting": false,
+        "Ingredients": {
+            "Gold Ingot": 1
+        }
+    },
+    "Wheat": {
+        "Buy Price": 0.0625,
+        "Crafting": false,
+        "Ingredients": {
+            "Wheat": 1
+        }
+    },
+    "Carrot": {
+        "Buy Price": 0.0625,
+        "Crafting": false,
+        "Ingredients": {
+            "Carrot": 1
+        }
+    },
+    "Potato": {
+        "Buy Price": 0.0625,
+        "Crafting": false,
+        "Ingredients": {
+            "Potato": 1
+        }
+    },
+    "Beetroot": {
+        "Buy Price": 0.0938,
+        "Crafting": false,
+        "Ingredients": {
+            "Beetroot": 1
+        }
+    },
+    "Sugar Cane": {
+        "Buy Price": 0.0625,
+        "Crafting": false,
+        "Ingredients": {
+            "Sugar Cane": 1
+        }
+    },
+    "Pumpkin Seeds": {
+        "Buy Price": 0.0625,
+        "Crafting": false,
+        "Ingredients": {
+            "Pumpkin Seeds": 1
+        }
+    },
+    "Beetroot Seeds": {
+        "Buy Price": 0.125,
+        "Crafting": false,
+        "Ingredients": {
+            "Beetroot Seeds": 1
+        }
+    },
+    "Oak Log": {
+        "Buy Price": 0.0781,
+        "Crafting": false,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Leather": {
+        "Buy Price": 0.1875,
+        "Crafting": false,
+        "Ingredients": {
+            "Leather": 1
+        }
+    },
+    "String": {
+        "Buy Price": 0.0625,
+        "Crafting": false,
+        "Ingredients": {
+            "String": 1
+        }
+    },
+    "Bone": {
+        "Buy Price": 0.3333,
+        "Crafting": false,
+        "Ingredients": {
+            "Bone": 1
+        }
+    },
+    "Gunpowder": {
+        "Buy Price": 0.125,
+        "Crafting": false,
+        "Ingredients": {
+            "Gunpowder": 1
+        }
+    },
+    "Salmon (Raw)": {
+        "Buy Price": 0.125,
+        "Crafting": false,
+        "Ingredients": {
+            "Salmon (Raw)": 1
+        }
+    },
+    "Cod (Raw)": {
+        "Buy Price": 0.1875,
+        "Crafting": false,
+        "Ingredients": {
+            "Cod (Raw)": 1
+        }
+    },
+    "Pufferfish": {
+        "Buy Price": 0.3125,
+        "Crafting": false,
+        "Ingredients": {
+            "Pufferfish": 1
+        }
+    },
+    "Clownfish": {
+        "Buy Price": 0.25,
+        "Crafting": false,
+        "Ingredients": {
+            "Clownfish": 1
+        }
+    },
+    "Arrow": {
+        "Buy Price": 0.0625,
+        "Crafting": false,
+        "Ingredients": {
+            "Arrow": 1
+        }
+    },
+    "Bow": {
+        "Buy Price": 0.2656,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 3,
+            "Oak Log": 1
+        }
+    },
+    "Lapis Lazuli": {
+        "Buy Price": 0.125,
+        "Crafting": false,
+        "Ingredients": {
+            "Lapis Lazuli": 1
+        }
+    },
+    "Obsidian": {
+        "Buy Price": 0.125,
+        "Crafting": false,
+        "Ingredients": {
+            "Obsidian": 1
+        }
+    },
+    "Book": {
+        "Buy Price": 0.3333,
+        "Crafting": false,
+        "Ingredients": {
+            "Book": 1
+        }
+    },
+    "Charcoal": {
+        "Buy Price": 0.1719,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Coal": 1
+        }
+    },
+    "Stone Button": {
+        "Buy Price": 0.1094,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Fishing Rod": {
+        "Buy Price": 0.2031,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "String": 2
+        }
+    },
+    "Wooden Shovel": {
+        "Buy Price": 0.1562,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Pressure Plate (Weighted Iron)": {
+        "Buy Price": 0.375,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 2
+        }
+    },
+    "Gold Chestplate": {
+        "Buy Price": 3.0,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 8
+        }
+    },
+    "Gold Shovel": {
+        "Buy Price": 0.4531,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 1,
+            "Oak Log": 1
+        }
+    },
+    "Minecart (with Furnace)": {
+        "Buy Price": 1.0623,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 8,
+            "Iron Ingot": 5
+        }
+    },
+    "Leather Helmet": {
+        "Buy Price": 0.9375,
+        "Crafting": true,
+        "Ingredients": {
+            "Leather": 5
+        }
+    },
+    "Iron Sword": {
+        "Buy Price": 0.4531,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 2,
+            "Oak Log": 1
+        }
+    },
+    "Stone Hoe": {
+        "Buy Price": 0.10930000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Oak Log": 1
+        }
+    },
+    "Chest": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Carrot on a Stick": {
+        "Buy Price": 0.2656,
+        "Crafting": true,
+        "Ingredients": {
+            "Fishing Rod": 1,
+            "Carrot": 1
+        }
+    },
+    "Wool (Light Blue)": {
+        "Buy Price": 0.7082999999999999,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4,
+            "Bone": 1,
+            "Lapis Lazuli": 1
+        }
+    },
+    "Gold Axe": {
+        "Buy Price": 1.2031,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 3,
+            "Oak Log": 1
+        }
+    },
+    "Gold Block": {
+        "Buy Price": 3.375,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 9
+        }
+    },
+    "Cobblestone Slab": {
+        "Buy Price": 0.0078,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 0.5
+        }
+    },
+    "Wool (White)": {
+        "Buy Price": 0.25,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4
+        }
+    },
+    "Trapdoor (Iron)": {
+        "Buy Price": 0.75,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 4
+        }
+    },
+    "Note Block": {
+        "Buy Price": 0.1094,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Rail": {
+        "Buy Price": 1.2031,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6,
+            "Oak Log": 1
+        }
+    },
+    "Bowl": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Iron Pickaxe": {
+        "Buy Price": 0.6406000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 3,
+            "Oak Log": 1
+        }
+    },
+    "Minecart (with Hopper)": {
+        "Buy Price": 1.7375,
+        "Crafting": true,
+        "Ingredients": {
+            "Hopper": 1,
+            "Iron Ingot": 5
+        }
+    },
+    "Crafting Table": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Iron Block": {
+        "Buy Price": 1.6875,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 9
+        }
+    },
+    "Iron Chestplate": {
+        "Buy Price": 1.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 8
+        }
+    },
+    "Iron Shovel": {
+        "Buy Price": 0.2656,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 1,
+            "Oak Log": 1
+        }
+    },
+    "Gold Nugget": {
+        "Buy Price": 0.375,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 1
+        }
+    },
+    "Slime Block": {
+        "Buy Price": 5.0004,
+        "Crafting": true,
+        "Ingredients": {
+            "Slimeball": 9
+        }
+    },
+    "Trapdoor (Wooden)": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Lever": {
+        "Buy Price": 0.0937,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Cobblestone": 1
+        }
+    },
+    "Stone Stairs": {
+        "Buy Price": 0.1094,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Potato (Baked)": {
+        "Buy Price": 0.1563,
+        "Crafting": true,
+        "Ingredients": {
+            "Potato": 1,
+            "Coal": 1
+        }
+    },
+    "Leather Chestplate": {
+        "Buy Price": 1.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Leather": 8
+        }
+    },
+    "Stone Axe": {
+        "Buy Price": 0.1249,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 3,
+            "Oak Log": 1
+        }
+    },
+    "Minecart (with Chest)": {
+        "Buy Price": 1.0156,
+        "Crafting": true,
+        "Ingredients": {
+            "Chest": 1,
+            "Iron Ingot": 5
+        }
+    },
+    "Popped Chorus Fruit": {
+        "Buy Price": 0.1876,
+        "Crafting": true,
+        "Ingredients": {
+            "Chorus Fruit": 1,
+            "Coal": 1
+        }
+    },
+    "Item Frame": {
+        "Buy Price": 0.2656,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Leather": 1
+        }
+    },
+    "Wooden Stairs": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Coal Block": {
+        "Buy Price": 0.8442,
+        "Crafting": true,
+        "Ingredients": {
+            "Coal": 9
+        }
+    },
+    "Shield": {
+        "Buy Price": 0.2656,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Iron Ingot": 1
+        }
+    },
+    "Shulker Box": {
+        "Buy Price": 12.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Shulker Shell": 2,
+            "Chest": 1
+        }
+    },
+    "Map": {
+        "Buy Price": 0.9688,
+        "Crafting": true,
+        "Ingredients": {
+            "Sugar Cane": 3,
+            "Iron Ingot": 4,
+            "Redstone Dust": 1
+        }
+    },
+    "Clock": {
+        "Buy Price": 1.5313,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 4,
+            "Redstone Dust": 1
+        }
+    },
+    "Stone Pickaxe": {
+        "Buy Price": 0.1249,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 3,
+            "Oak Log": 1
+        }
+    },
+    "Torch": {
+        "Buy Price": 0.1719,
+        "Crafting": true,
+        "Ingredients": {
+            "Coal": 1,
+            "Oak Log": 1
+        }
+    },
+    "Bread": {
+        "Buy Price": 0.1875,
+        "Crafting": true,
+        "Ingredients": {
+            "Wheat": 3
+        }
+    },
+    "Wooden Plank": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Tripwire Hook": {
+        "Buy Price": 0.3437,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 1,
+            "Oak Log": 1,
+            "Wooden Plank": 1
+        }
+    },
+    "Wooden Door": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Pressure Plate (Wooden)": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Paintings": {
+        "Buy Price": 0.3281,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Wool (White)": 1
+        }
+    },
+    "Wooden Hoe": {
+        "Buy Price": 0.1562,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Bucket": {
+        "Buy Price": 0.5625,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 3
+        }
+    },
+    "Gold Sword": {
+        "Buy Price": 0.8281000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 2,
+            "Oak Log": 1
+        }
+    },
+    "Gold Leggings": {
+        "Buy Price": 2.625,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 7
+        }
+    },
+    "Stone Brick": {
+        "Buy Price": 0.1094,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Cauldron": {
+        "Buy Price": 1.3125,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 7
+        }
+    },
+    "Shears": {
+        "Buy Price": 0.375,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 2
+        }
+    },
+    "Sugar": {
+        "Buy Price": 0.0625,
+        "Crafting": true,
+        "Ingredients": {
+            "Sugar Cane": 1
+        }
+    },
+    "Stick": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Wool (Brown)": {
+        "Buy Price": 0.2813,
+        "Crafting": true,
+        "Ingredients": {
+            "Wool (White)": 1,
+            "Cocoa Beans": 1
+        }
+    },
+    "Bone Block": {
+        "Buy Price": 0.3333,
+        "Crafting": true,
+        "Ingredients": {
+            "Bone": 1
+        }
+    },
+    "Rail (Powered)": {
+        "Buy Price": 2.3594,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 6,
+            "Stick": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Leather Boots": {
+        "Buy Price": 0.75,
+        "Crafting": true,
+        "Ingredients": {
+            "Leather": 4
+        }
+    },
+    "Stone Slab": {
+        "Buy Price": 0.1094,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Wool (Blue)": {
+        "Buy Price": 0.375,
+        "Crafting": true,
+        "Ingredients": {
+            "Wool (White)": 1,
+            "Lapis Lazuli": 1
+        }
+    },
+    "Gold Pickaxe": {
+        "Buy Price": 1.2031,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 3,
+            "Oak Log": 1
+        }
+    },
+    "Anvil": {
+        "Buy Price": 2.4375,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 13
+        }
+    },
+    "Composter": {
+        "Buy Price": 0.2343,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 3
+        }
+    },
+    "Salmon (Cooked)": {
+        "Buy Price": 0.2188,
+        "Crafting": true,
+        "Ingredients": {
+            "Salmon (Raw)": 1,
+            "Coal": 1
+        }
+    },
+    "Bone Meal": {
+        "Buy Price": 0.3333,
+        "Crafting": true,
+        "Ingredients": {
+            "Bone": 1
+        }
+    },
+    "Compass": {
+        "Buy Price": 0.7813,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 4,
+            "Redstone Dust": 1
+        }
+    },
+    "Lapis Lazuli Block": {
+        "Buy Price": 1.125,
+        "Crafting": true,
+        "Ingredients": {
+            "Lapis Lazuli": 9
+        }
+    },
+    "Gold Hoe": {
+        "Buy Price": 0.8281000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 2,
+            "Oak Log": 1
+        }
+    },
+    "Paper": {
+        "Buy Price": 0.1875,
+        "Crafting": true,
+        "Ingredients": {
+            "Sugar Cane": 3
+        }
+    },
+    "Chest (Trapped)": {
+        "Buy Price": 0.4218,
+        "Crafting": true,
+        "Ingredients": {
+            "Tripwire Hook": 1,
+            "Chest": 1
+        }
+    },
+    "Hay Bale": {
+        "Buy Price": 0.5625,
+        "Crafting": true,
+        "Ingredients": {
+            "Wheat": 9
+        }
+    },
+    "Dye (Light Blue)": {
+        "Buy Price": 0.4583,
+        "Crafting": true,
+        "Ingredients": {
+            "Bone Meal": 1,
+            "Lapis Lazuli": 1
+        }
+    },
+    "Leather Leggings": {
+        "Buy Price": 1.3125,
+        "Crafting": true,
+        "Ingredients": {
+            "Leather": 7
+        }
+    },
+    "Gold Boots": {
+        "Buy Price": 1.5,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 4
+        }
+    },
+    "Cookie": {
+        "Buy Price": 0.1563,
+        "Crafting": true,
+        "Ingredients": {
+            "Wheat": 2,
+            "Cocoa Beans": 1
+        }
+    },
+    "Iron Bars": {
+        "Buy Price": 1.125,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6
+        }
+    },
+    "Pressure Plate (Weighted Gold)": {
+        "Buy Price": 0.75,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 2
+        }
+    },
+    "Iron Axe": {
+        "Buy Price": 0.6406000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 3,
+            "Oak Log": 1
+        }
+    },
+    "Wooden Sword": {
+        "Buy Price": 0.1562,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Stick": 1
+        }
+    },
+    "Stone Sword": {
+        "Buy Price": 0.10930000000000001,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 2,
+            "Stick": 1
+        }
+    },
+    "Cobblestone Wall": {
+        "Buy Price": 0.09359999999999999,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 6
+        }
+    },
+    "Redstone Block": {
+        "Buy Price": 0.2817,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 9
+        }
+    },
+    "Wooden Axe": {
+        "Buy Price": 0.1562,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Sign": {
+        "Buy Price": 0.1562,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Stick": 1
+        }
+    },
+    "Stone": {
+        "Buy Price": 0.1094,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Minecart": {
+        "Buy Price": 0.9375,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 5
+        }
+    },
+    "Iron Boots": {
+        "Buy Price": 0.75,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 4
+        }
+    },
+    "End Stone Bricks": {
+        "Buy Price": 0.1252,
+        "Crafting": true,
+        "Ingredients": {
+            "End Stone": 4
+        }
+    },
+    "Wooden Slab": {
+        "Buy Price": 0.03905,
+        "Crafting": true,
+        "Ingredients": {
+            "Wooden Plank": 0.5
+        }
+    },
+    "Fence": {
+        "Buy Price": 0.1562,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Iron Leggings": {
+        "Buy Price": 1.3125,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 7
+        }
+    },
+    "Boat": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Iron Hoe": {
+        "Buy Price": 0.4531,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 2,
+            "Oak Log": 1
+        }
+    },
+    "Fence Gate": {
+        "Buy Price": 0.1562,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Iron Helmet": {
+        "Buy Price": 0.9375,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 5
+        }
+    },
+    "Banner": {
+        "Buy Price": 0.3281,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4,
+            "Stick": 1
+        }
+    },
+    "Gold Helmet": {
+        "Buy Price": 1.875,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 5
+        }
+    },
+    "Stone Shovel": {
+        "Buy Price": 0.0937,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Oak Log": 1
+        }
+    },
+    "Wooden Pickaxe": {
+        "Buy Price": 0.1562,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 2
+        }
+    },
+    "Carrot (Golden)": {
+        "Buy Price": 0.4375,
+        "Crafting": true,
+        "Ingredients": {
+            "Gold Ingot": 1,
+            "Carrot": 1
+        }
+    },
+    "Lead": {
+        "Buy Price": 0.8056,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4,
+            "Slimeball": 1
+        }
+    },
+    "Iron Door": {
+        "Buy Price": 1.125,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6
+        }
+    },
+    "Bookshelf": {
+        "Buy Price": 0.4531,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Sugar Cane": 3,
+            "Leather": 1
+        }
+    },
+    "Armor Stand": {
+        "Buy Price": 0.1328,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1,
+            "Stone": 0.5
+        }
+    },
+    "Pressure Plate (Stone)": {
+        "Buy Price": 0.1094,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1,
+            "Coal": 1
+        }
+    },
+    "Furnace": {
+        "Buy Price": 0.1248,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 8
+        }
+    },
+    "Cobblestone Stairs": {
+        "Buy Price": 0.023399999999999997,
+        "Crafting": true,
+        "Ingredients": {
+            "Cobblestone": 1.5
+        }
+    },
+    "Rail (Detector)": {
+        "Buy Price": 1.2657,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6,
+            "Pressure Plate (Stone)": 1,
+            "Redstone Dust": 1
+        }
+    },
+    "Redstone Torch": {
+        "Buy Price": 0.1094,
+        "Crafting": true,
+        "Ingredients": {
+            "Redstone Dust": 1,
+            "Stick": 1
+        }
+    },
+    "Ladder": {
+        "Buy Price": 0.0781,
+        "Crafting": true,
+        "Ingredients": {
+            "Oak Log": 1
+        }
+    },
+    "Bed": {
+        "Buy Price": 0.3281,
+        "Crafting": true,
+        "Ingredients": {
+            "String": 4,
+            "Oak Log": 1
+        }
+    },
+    "Beetroot Soup": {
+        "Buy Price": 0.6409,
+        "Crafting": true,
+        "Ingredients": {
+            "Beetroot": 6,
+            "Bowl": 1
+        }
+    },
+    "Rail (Activator)": {
+        "Buy Price": 1.3125,
+        "Crafting": true,
+        "Ingredients": {
+            "Iron Ingot": 6,
+            "Oak Log": 1,
+            "Redstone Torch": 1
+        }
+    }
+}

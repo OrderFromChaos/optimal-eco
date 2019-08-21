@@ -22,5 +22,5 @@ def convertCSV(server_name: str) -> None:
         json.dump(outJSON, f, indent=4)
 
 if __name__ == '__main__':
-    server_name = 'SBHub'
+    server_name = 'Craftscade'
     convertCSV(server_name)
